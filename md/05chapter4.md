@@ -22,9 +22,11 @@ Rights: CC BY-NC 4.0
 
 # 4. The Social Technologies of the Network Commons (Freifunk 2)
 
-![](media/image1.jpeg){width="3.8006944444444444in"
-height="4.175in"}Fig. 18. Topology and metrics of a local mesh test
+![Fig. 18. Topology and metrics of a local mesh test
 network.
+](imgs/m18.jpg)
+
+<br/>
 
 The social technologies of the wireless community network are
 technologies specifically developed to support social goals, such as
@@ -146,8 +148,9 @@ logic following Berlin’s postcodes, handed out IP addresses for people
 who wanted their wireless router to be part of Freifunk. The visual
 logic of this method you can follow here:
 
-![](media/image2.jpeg){width="5.651388888888889in"
-height="3.4875in"}Fig. 19. Berlin map by postal codes.
+![Fig. 19. Berlin map by postal codes.](imgs/m19.jpg)
+
+<br/>
 
 As another snapshot shows, in a series of core meetings, the Berlin
 community decided how to use the IP addresses for a Class B Net.[^05chapter4_11]
@@ -211,9 +214,10 @@ In 2003 together with FACT, commissioned by Michael Connor, we made a
 brochure and DVD, with Kingdom of Piracy.[^05chapter4_14] It was like a toolbox for
 free culture, in software, intellectually, in art.
 
-![](media/image3.jpeg){width="3.9756944444444446in"
-height="2.9868055555555557in"}Fig. 20. The many-headed hydra of
-community mesh.
+![Fig. 20. The many-headed hydra of
+community mesh.](imgs/m20.jpg)
+
+<br/>
 
 The early 2000s were an era of rapid growth of the digital commons. The
 network commons in practice enabled a range of other creative practices.
@@ -226,8 +230,9 @@ device, scanning for networks. Depending on the ethical stance taken by
 those doing the scanning, no intrusion happens, but the information
 gathered can be used for location based tasks.
 
-![](media/image4.jpeg){width="4.938194444444444in"
-height="3.703472222222222in"}Fig. 21. Warwalk.
+![Fig. 21. Warwalk.](imgs/m21.jpg)
+
+<br/>
 
 One thing that can be done is simply measuring the signal strength of
 WLAN networks. You can also use the IP addresses for WLAN triangulation
@@ -283,9 +288,7 @@ outskirts of Valparaiso, Chile, has started and gets documented on these
 pages here.[^05chapter4_18]
 
 [^05chapter4_1]: Heather J. Meeker, *Open Source and the Legend of Linksys*, Linux
-    Insider, 28.06.2005,
-
-    http://www.linuxinsider.com/story/43996.html.
+    Insider, 28.06.2005, http://www.linuxinsider.com/story/43996.html.
 
 [^05chapter4_2]: Here is a long list of devices on which it is possibly running:
     OpenWrt: Table of Hardware, http://wiki.openwrt.org/toh/start.

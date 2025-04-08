@@ -19,9 +19,10 @@ Rights: CC BY-NC 4.0
 
 # 6. The Incomplete Paradigm Shift
 
-![](media/image1.jpeg){width="3.5416666666666665in"
-height="4.722222222222222in"}Fig. 24. Carnival Against Capitalism –18
-June 1999. Photo: Manu Luksch.
+![Fig. 24. Carnival Against Capitalism –18
+June 1999. Photo: Manu Luksch.](imgs/m24.jpg)
+
+<br/>
 
 This chapter takes a bird’s-eye view of history, locating the
 developments of wireless community networks within a historical

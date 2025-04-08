@@ -22,9 +22,10 @@ Rights: CC BY-NC 4.0
 
 # 5. Free Networks: We Are Only Just Beginning
 
-![](media/image1.jpeg){width="4.722222222222222in"
-height="3.5416666666666665in"}Fig. 22 Gio and Alexi in the Wireless
-Spring.
+![Fig. 22 Gio and Alexi in the Wireless
+Spring.](imgs/m22.jpg)
+
+<br/>
 
 We are only just beginning, is the message I have picked up from the two
 biggest communities in Europe, from Guifi.net and from Freifunk. Since
@@ -72,12 +73,13 @@ OpenWRT release configured to route all data via a virtual private
 network (VPN) through an ISP in Sweden, so that German law does not
 apply.
 
-![](media/image2.jpeg){width="4.6194444444444445in"
-height="2.5631944444444446in"}Fig. 23. Freifunk Freedom Box on
-Mainstream TV.
+![Fig. 23. Freifunk Freedom Box on
+Mainstream TV.](imgs/m23.jpg)
+
+<br/>
 
 This action, launched in 2012 under the title *Freifunk statt Angst*
-(Free radio instead of fear)[^06chapter5_1]\
+(Free radio instead of fear)[^06chapter5_1]
 created plenty of publicity. In an initial action, Freifunk gave away
 one hundred Freifunk Freedom Fighter Boxes. When users logged on to such
 a router, they got a Splash page which informed them about the political

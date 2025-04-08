@@ -22,9 +22,9 @@ Rights: CC BY-NC 4.0
 
 # 2. Consume the Net: The Internationalization of an Idea
 
-![](media/image1.jpeg){width="3.8666666666666667in"
-height="5.155555555555556in"}Fig. 11. The Sky Above Berlin: Freifunk in
-action.
+![Fig. 11. The Sky Above Berlin: Freifunk in action.](imgs/m11.jpg)
+
+<br/>
 
 This chapter starts out with a summary of the achievements of
 Consume.net, London, and then traces the development of this idea, how

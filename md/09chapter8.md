@@ -53,9 +53,10 @@ economic crisis in Spain, this enables aficionados of free software and
 free networks to earn a bit of money. Maybe this gives Guifi a chance to
 maintain its fast growth rates.[^09chapter8_1]
 
-![](media/image1.jpeg){width="3.386111111111111in"
-height="3.0479166666666666in"}Fig. 28. Guifi growth rates from 2004 with
-predictions until 2024.
+![Fig. 28. Guifi growth rates from 2004 with
+predictions until 2024.](imgs/m28.jpg)
+
+<br/>
 
 In Germany, it seems, paying people to build networks is anathema to
 most. The shared ethical stance – which has been voluntarily adopted and
@@ -155,16 +156,16 @@ allowing a network to grow which has different property structures, but
 works as a commons regardless, through its commitment to interconnect.
 The three principles deserve some closer explanation. I quote:
 
-1\. It is open because it is universally open to the participation of
+1. It is open because it is universally open to the participation of
 everybody without any kind of exclusion nor discrimination, and because
 it is always described how it and its components work, enabling everyone
 to improve it.
 
-2\. It is free because everybody can use it for whatever purpose and
+2. It is free because everybody can use it for whatever purpose and
 enjoy it as foreseen in the freedoms of the *General principles*
 section, independently of their degree of network participation.
 
-3\. it is neutral because the network is independent of the contents, it
+3. it is neutral because the network is independent of the contents, it
 does not influence them and they can freely circulate; the users can
 access and produce contents independently of their financial capacity or
 their social condition. The new contents produced by guifi.net are

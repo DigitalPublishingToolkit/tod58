@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# Introduction
+#Introduction
 
 The book in your hands is a message in a bottle that washed ashore ten
 years after it was sent. Armin Medosch began documenting self-managed
@@ -63,7 +63,7 @@ It continued to evolve in Armin’s thinking. He wanted to have an
 English-language companion and update to his 2004 book. In his own
 words:
 
-[]{#__DdeLink__3196_774727268_Copy_1 .anchor}*The Rise of the Network
+*The Rise of the Network
 Commons* is the working title of a new book which I am currently
 writing. It returns to the topos of the wireless commons on which I
 worked during the early 2000s. In this new version, combining original
@@ -74,11 +74,12 @@ projects such as Guifi.net and Freifunk, Berlin, gets interspersed with
 philosophical reflections on the relationship between technology, art,
 politics, and history.[^01introduction_5]
 
-![](media/image1.jpeg){width="5.227777777777778in"
-height="3.9444444444444446in"}
-
-Fig. 0. BerLon Meeting, Berlin, 2002. Armin Medosch is in first row at
+![Fig. 0. BerLon Meeting, Berlin, 2002. Armin Medosch is in first row at
 the right in jeans and red shirt.[^01introduction_6]
+](imgs/m0.jpg)
+
+<br/>
+
 
 The model of wireless community networks at the heart of this book,
 Consume.net, was conceived in London during the last days of the 20^th^

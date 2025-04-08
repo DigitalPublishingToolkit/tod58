@@ -17,21 +17,23 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# 12. Network Commons Case Studies and Correspondence {#network-commons-case-studies-and-correspondence .ListParagraph}
+# 12. Network Commons Case Studies and Correspondence
 
-![](media/image1.jpeg){width="5.152083333333334in"
-height="3.863888888888889in"}Fig. 31. Mauricio Roman, installing a mesh
-router. Cerro Mariposa (Butterfly Hill), Valparaiso.
+![Fig. 31. Mauricio Roman, installing a mesh
+router. Cerro Mariposa (Butterfly Hill), Valparaiso.](imgs/m31.jpg)
+
+<br/>
 
 This chapter contains contributions by a range of authors on separate
 topics and case studies.
 
 ## 12.1 Ignacio Nieto: Free Mesh Networks. Two Cases from Chile
 
-![](media/image2.jpeg){width="5.239583333333333in"
-height="2.2597222222222224in"}Fig. 32. Ignacio Nieto, installing a mesh
+![Fig. 32. Ignacio Nieto, installing a mesh
 router. Cerro Mariposa (Butterfly Hill), Valparaiso. Photo: Mauricio
-Roman.
+Roman.](imgs/m32.jpg)
+
+<br/>
 
 This article starts with a short introduction to free networks, followed
 by a summary about free networks in Latin America. The article then
@@ -203,8 +205,9 @@ Santiago, so it was quite expensive for me go there and work for free.
 
 ## 12.2 Letter to Fidel and Raul Castro
 
-![](media/image3.jpeg){width="4.243055555555555in"
-height="3.1819444444444445in"}Fig. 33 Cuba Libre.
+![Fig. 33 Cuba Libre.](imgs/m33.jpg)
+
+<br/>
 
 Dear Fidel and Raul,
 
@@ -233,9 +236,10 @@ either. I just wanted to provide some way of expressing my gratitude of
 having spent three weeks in a wonderful country with wonderful people.
 We enjoyed our holiday tremendously and surely will be coming back.
 
-![](media/image4.jpeg){width="4.743055555555555in"
-height="3.5569444444444445in"}Fig. 34. High-rise with socialist
-abdominal belt in Havana.
+![Fig. 34. High-rise with socialist
+abdominal belt in Havana.](imgs/m34.jpg)
+
+<br/>
 
 But between all the bliss of Sun, Sea, Salsa (the music and the food) we
 found one thing lacking. This was the internet, particular in its
@@ -259,8 +263,9 @@ over the world and get their message through, just like the Zapatistas
 did in Chiapas in the 1990s, sending messages directly from the
 Lacandonian jungle to the world.
 
-![](media/image5.jpeg){width="4.925in" height="3.692361111111111in"}Fig.
-35. Street scene in Havana.
+![Fig. 35. Street scene in Havana.](imgs/m35.jpg)
+
+<br/>
 
 The internet is not a commodity like any other commodity. I would like
 to thus add a recommendation. In order to further the internet in Cuba

@@ -22,9 +22,10 @@ Rights: CC BY-NC 4.0
 
 # 3. Fly Freifunk Fly!
 
-![](media/image1.png){width="4.904861111111111in"
-height="3.678472222222222in"}Fig. 12. Early Map of Berlin Backbone,
-courtesy Freifunk.
+![Fig. 12. Early Map of Berlin Backbone,
+courtesy Freifunk.](imgs/m12.png)
+
+<br/>
 
 The Copenhagen Interpolation had induced confidence into the very small
 number of participants, including a delegation of three from Berlin. In
@@ -43,9 +44,9 @@ means both, to create sparks and make a wireless transmission. Meisel,
 who at the time worked for a German web agency, also created the famous
 Freifunk Logo and the visual identity of the website.
 
-![](media/image2.jpeg){width="1.9583333333333333in"
-height="2.388888888888889in"}Fig. 13. Freifunk logo by Monic Meisel.
-Image courtesy Freifunk.
+![Fig. 13. Freifunk logo by Monic Meisel. Image courtesy Freifunk.](imgs/m13.jpg)
+
+<br/>
 
 It seems that Freifunk took off because of a combination of reasons. It
 quickly found support among activists all over Germany, not just in
@@ -72,9 +73,11 @@ paper on which he had written:
 
 ‘free software – free networks – free hardware.’
 
-![](media/image3.jpeg){width="5.898611111111111in"
-height="3.9715277777777778in"}Fig. 14. Eben Moglen at OpenCultures
+![Fig. 14. Eben Moglen at OpenCultures
 conference 2003. Image courtesy t0 / WorldInformation.org.
+](imgs/m14.jpg)
+
+<br/>
 
 The holy trinity of freedom of speech and participatory democracy in the
 early 21st century. His speech was based on the dotCommunist
@@ -130,8 +133,9 @@ the Freifunk convention, it was decided to have the next community
 network meeting in Djursland in 2004, which turned out to become a major
 international meeting of community networkers in Europe.
 
-![](media/image4.jpeg){width="5.025in" height="5.560416666666667in"}Fig.
-15. Map of Djurslands.net.
+![Fig. 15. Map of Djurslands.net.](imgs/m15.jpg)
+
+<br/>
 
 According to conflicting reports at FC03 Bruno Randolf showed the
 MeshCube, a technology he developed for a company in Hamburg. However,
@@ -206,8 +210,9 @@ appears to be from July 2003. (Meanwhile, Berlin Backbone receives
 financial support from the regional government – more about that in a
 future installment of this story).
 
-![](media/image5.jpeg){width="5.781944444444444in" height="2.75in"}Fig.
-16. Berlin Backbone, Summer 2003.
+![Fig. 16. Berlin Backbone, Summer 2003.](imgs/m16.jpg)
+
+<br/>
 
 In London, if you look at an early map of East End Net, the dots are
 there but they are not connected. Between Cremer street and Free2air.org
@@ -221,10 +226,10 @@ antenna mounting point for a long distance connection. The Vicar,
 however, had already sold access to the spire of his church to a mobile
 telephone company.
 
-![](media/image6.jpeg){width="5.9375in"
-height="3.154166666666667in"}Fig. 17. An omni-directional antenna by
-Consume, a spire and the towers of the financial center, East London,
-2002.
+![Fig. 17. An omni-directional antenna by
+Consume, a spire and the towers of the financial center, East London, 2002.](imgs/m17.jpg)
+
+<br/>
 
 It seems significant that today’s Berlin Backbone uses quite a few
 churches. Another aspect of the social side is that in Berlin it is

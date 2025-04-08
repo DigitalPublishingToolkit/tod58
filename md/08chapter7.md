@@ -19,9 +19,10 @@ Rights: CC BY-NC 4.0
 
 # 7. Free Networks Between Countryside and City, Between North and South
 
-![](media/image1.jpeg){width="5.2625in"
-height="3.9472222222222224in"}Fig. 25. Mariposa Hill, Valparaiso, Chile.
-The blue building on the right is the Torres de Mesana Community Center.
+![Fig. 25. Mariposa Hill, Valparaiso, Chile.
+The blue building on the right is the Torres de Mesana Community Center.](imgs/m25.jpg)
+
+<br/>
 
 The previous chapter has delved into some of the bigger implications of
 free networks in relation to the overall historic development. It has
@@ -224,9 +225,10 @@ sharing knowledge. They were afraid that if they trained people so that
 they could build wireless community networks, they would walk away and
 found their own companies.
 
-![](media/image2.jpeg){width="5.086805555555555in"
-height="3.8152777777777778in"}Fig. 26. Elektra, right hand side, at
-workshop at Espacio G.
+![Fig. 26. Elektra, right hand side, at
+workshop at Espacio G.](imgs/m26.jpg)
+
+<br/>
 
 Even where the social separations are by far not as pronounced as in
 sub-Saharan Africa, obstacles arise from the nature of the social
@@ -242,9 +244,10 @@ very nearly succeeded, but after Elektra, who had provided a lot of the
 technical expertise, left, technological development stopped. It also
 seems that there were issues around the appropriation of funds.
 
-![](media/image3.jpeg){width="4.9118055555555555in"
-height="3.6840277777777777in"}Fig. 27. Antenna installation on Mariposa
-Hill.
+![Fig. 27. Antenna installation on Mariposa
+Hill.](imgs/m27.jpg)
+
+<br/>
 
 In 2014, Elektra was again invited to Chile, this time by Espacio G, an
 alternative gallery hacker space in Valparaiso. There, poorer areas in

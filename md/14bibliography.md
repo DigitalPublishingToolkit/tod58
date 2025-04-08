@@ -17,10 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# References {#references .ListParagraph}
-
-Confine Project (2012-2015), archived October 2015,
-https://web.archive.org/web/20151003180403/https://www.confine-project.eu/.
+# References
 
 Aichele, Corinna *Elektra*. *Mesh – Drahtlose Ad-hoc Netze*, München:
 Open Source Press, 2007. Extract available at:

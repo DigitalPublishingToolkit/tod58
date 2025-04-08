@@ -28,14 +28,17 @@ network projects such as Guifi.net and Freifunk, Berlin, gets
 interspersed with philosophical reflections on the relationship between
 technology, art, politics, and history.
 
-![](media/image1.jpeg){width="4.129166666666666in"
-height="5.507638888888889in"}Fig. 1. Antenna installation at Haus des
-Lehrers, 2003. Image courtesy Freifunk.
+![Fig. 1. Antenna installation at Haus des
+Lehrers, 2003. Image courtesy Freifunk.](imgs/m1.jpg)
+
+<br/>
+
 
 ## 1.1 The World of Guifi.net and the Dispositif of Network Freedom
 
-![](media/image2.jpeg){width="4.363888888888889in"
-height="3.2729166666666667in"}Fig. 2. Guifi antenna.
+![Fig. 2. Guifi antenna.](imgs/m2.jpg)
+
+<br/>
 
 On my recent visit to Barcelona in the context of the Confine project,
 Guifi.net founder Ramon Roca took me to Gurb, the village he comes from.
@@ -93,7 +96,7 @@ techno-social network utopia.
 
 The relatively young discipline of science studies teaches us that the
 technical and the social cannot or should not be considered as
-categorically separated. *‘*Technologies are socially produced’ is one
+categorically separated. ‘Technologies are socially produced’ is one
 of the key phrases in the discourse of science studies. They do not
 exist outside the human world but are the product of specific societies
 which exist under specific conditions and circumstances. Technologies
@@ -335,9 +338,10 @@ the 1930s.
 
 ## 1.2 Dawn of an Idea
 
-![](media/image3.jpeg){width="4.580555555555556in"
-height="3.473611111111111in"}Fig. 3. James Stevens with projection of
-network topologies.
+![Fig. 3. James Stevens with projection of
+network topologies.](imgs/m3.jpg)
+
+<br/>
 
 Good ideas often pop up at the same time at various points on the Earth,
 they just seem to be in the air. And so it came that around the year
@@ -435,9 +439,10 @@ by artist Olia Lialina with this work *Some Universe*[^02chapter1_12]. Olia Lial
 has also collected *Under Construction* signs such as this one, another
 charming aspect of the early web:
 
-![](media/image4.jpeg){width="1.5694444444444444in"
-height="1.5694444444444444in"}Fig. 4. Animated GIF of computer user
-banging head on keyboard.
+![Fig. 4. Animated GIF of computer user
+banging head on keyboard.](imgs/m4.jpg)
+
+<br/>
 
 While the on-line world was colorful and intellectually stimulating,
 internet access was not that cheap at all at the time. We looked with
@@ -499,10 +504,11 @@ for a node.
 
 ## 1.4 Consume – the Culture of Free Networks
 
-![](media/image5.jpeg){width="5.963888888888889in"
-height="3.9756944444444446in"}Fig. 5. Free Networking as social
+![Fig. 5. Free Networking as social
 mechanism: Consume workshop with Manu Luksch, Ilze Black and Alexei
-Blinov, circa 2003. Photo: Chris Helgren.
+Blinov, circa 2003. Photo: Chris Helgren.](imgs/m5.jpg)
+
+<br/>
 
 James Stevens and Julian Priest found another inspiration for their
 *Model 1* (see chapter 1.1) through the way in which in a particular
@@ -578,9 +584,10 @@ locations where people work and live using this wireless stuff. We did
 it already across the street, so that sort of scale where we had a
 grasp.’ (James Stevens, interview with the author, 2003).
 
-![](media/image6.jpeg){width="6.153472222222222in"
-height="4.102083333333334in"}Fig. 6. Consume workshop at the studio of
-AmbientTV.NET, London, circa 2003. Photo: Chris Helgren.
+![Fig. 6. Consume workshop at the studio of
+AmbientTV.NET, London, circa 2003. Photo: Chris Helgren.](imgs/m6.jpg)
+
+<br/>
 
 I received an invitation to this workshop and remember that I was
 electrified (although it turned out that I could not participate in that
@@ -708,9 +715,10 @@ case, triggered a steep learning curve. This was a time when I started
 to gain knowledge of IP numbers, address spaces, NATing, and port
 forwarding, and, last not least, routing protocols.
 
-![](media/image7.jpeg){width="4.853472222222222in"
-height="3.7784722222222222in"}Fig. 7. Screenshot of Consume Node Data
-Base of UK in text mode.
+![Fig. 7. Screenshot of Consume Node Data
+Base of UK in text mode.](imgs/m7.jpg)
+
+<br/>
 
 As Stevens and a core group of supporters traveled up and down the
 country, workshopping, talking, advocating, Consume quickly developed a
@@ -753,11 +761,10 @@ Europe, free2air.org.
 
 ## 1.5 You are Free 2 Air Your Opinion
 
-![](media/image8.jpeg){width="6.6930555555555555in"
-height="4.461805555555555in"}
+![Fig. 8. Adam Burns and Manu Luksch explore skies over East London.
+Photo: Chris Helgren.](imgs/m8.jpg)
 
-Fig. 8. Adam Burns and Manu Luksch explore skies over East London.
-Photo: Chris Helgren.
+<br/>
 
 While Consume had been an early project, as a really existing free
 network in London it had been preceded by free2air.org. Free2air.org was
@@ -800,9 +807,10 @@ that message through.[^02chapter1_24]
 
 ## 1.6 East End Net
 
-![](media/image9.jpeg){width="5.590277777777778in"
-height="4.192361111111111in"}Fig. 9. Free2air's node groundzero gets an
-antenna upgrade circa 2002.
+![Fig. 9. Free2air's node groundzero gets an
+antenna upgrade circa 2002.](imgs/m9.jpg)
+
+<br/>
 
 Adam Burns became a central person in the London wireless scene around
 Consume and what came to be known as East End Net. The idea was launched
@@ -814,8 +822,10 @@ our local version of it, with a connection from free2air.org to the
 *compound*, a large workspace building for small industries at the
 bottom of Broadway Market in E8.
 
-![](media/image10.jpeg){width="5.74375in"
-height="4.307638888888889in"}Fig. 10. East End Net: The Original Map.
+![Fig. 10. East End Net: The Original Map.](imgs/m10.jpg)
+
+
+<br/>
 
 With AmbientTV.net’s help, the connection was spread by wireless and
 wirebound throughout the building. For several years a community of

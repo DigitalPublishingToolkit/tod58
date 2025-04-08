@@ -19,9 +19,10 @@ Rights: CC BY-NC 4.0
 
 # 10. Towards the Network Commons (Conclusions)
 
-![](media/image1.jpeg){width="3.9965277777777777in"
-height="2.9944444444444445in"}Fig. 30. Andrews Road, London, May 2005
-(from Monoskop[^11chapter10_1]).
+![Fig. 30. Andrews Road, London, May 2005
+(from Monoskop[^11chapter10_1]).](imgs/m30.jpg)
+
+<br/>
 
 Based on a recent trip to Germany, where vibrant new communities have
 triggered discussions about what makes the essence of Freifunk, I am
@@ -406,7 +407,6 @@ closed network to the outside world. While being a closed community,
 Funkfeuer can still make important contributions to the development of
 experimental network technology.
 
-[^11chapter10_1]: https://monoskop.org/images/c/c3/Armin\_Medosch\_1962-2017.pdf.
 
 [^11chapter10_2]: Armin Medosch, ‘Kreative Milieus’. In *Vergessene Zukunft:
     Radikale Netzkulturen in Europa*, 1. Aufl., pp. 19–26. Bielefeld:

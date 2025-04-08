@@ -61,7 +61,7 @@ And even in the turbo-capitalist world we live in this is still
 safeguarded. Mesh routing protocols are improvements of *normal* routing
 protocols.
 
-[]{#__DdeLink__10802_299379148 .anchor}Pau Escrich is one among a team
+Pau Escrich is one among a team
 of researchers working on the Confine project and he is also a Guifi
 activist:
 
@@ -83,8 +83,9 @@ entrance and exit to that country. The benefit is that for nodes inside
 this *country* it is not necessary to know the route to each and any
 other node on the net, it only needs to know the nearest gateway router.
 
-![](media/image1.jpeg){width="4.4118055555555555in"
-height="3.3090277777777777in"}Fig. 29. Paul Baran, Network Topology.
+![Fig. 29. Paul Baran, Network Topology.](imgs/m29.jpg)
+
+<br/>
 
 The resulting network topology is one that could be described as
 decentralized, according to the classification of Paul Baran’s seminal
