@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# 12. Network Commons Case Studies and Correspondence
+# 12. Network Commons Case Studies and Correspondence {#network-commons-case-studies-and-correspondence .ListParagraph}
 
 ![](media/image1.jpeg){width="5.152083333333334in"
 height="3.863888888888889in"}Fig. 31. Mauricio Roman, installing a mesh
@@ -30,7 +30,8 @@ topics and case studies.
 
 ![](media/image2.jpeg){width="5.239583333333333in"
 height="2.2597222222222224in"}Fig. 32. Ignacio Nieto, installing a mesh
-router. Cerro Mariposa (Butterfly Hill), Valparaiso.
+router. Cerro Mariposa (Butterfly Hill), Valparaiso. Photo: Mauricio
+Roman.
 
 This article starts with a short introduction to free networks, followed
 by a summary about free networks in Latin America. The article then
@@ -94,12 +95,12 @@ nodes tend to have a high complexity and density as they do not allow
 the tracing of a particular node, due to the complexity and randomness
 allocator IP. In May 2010, Andrea Lo Pumo, as part of the Netsukuku
 project, published his dissertation *Scalable Mesh Networks and the
-Address Space Balancing problem*.[^12chapter12_1]
+Address Space Balancing problem*.[^13chapter12_1]
 
 There are several algorithms for mesh routing, among them OLSR,
 B.A.T.M.A.N., and PA-SHWMP. Currently open source developers struggle to
 find the best routing protocol. That is why they meet once a year for a
-Wireless Battle Mesh.[^12chapter12_2]
+Wireless Battle Mesh.[^13chapter12_2]
 
 In Latin America, the creation of collective-oriented implementations of
 free networks began to settle early, in far more precarious
@@ -165,7 +166,7 @@ curator spoke with me and we decided to invite Elektra again, funded by
 the New Media Department of the a Chilean Ministry of Culture, Arts and
 Heritage.
 
-We established our base in Espacio G,[^12chapter12_3] an alternative gallery hacker
+We established our base in Espacio G,[^13chapter12_3] an alternative gallery hacker
 space in the city of Valparaiso. One of the curatorial ideas was to work
 with the people who had lost everything to the fires during the summer
 of 2014 in Valparaiso. So a prototype was developed and installed in two
@@ -180,6 +181,8 @@ the plain, far away from the places we installed the network. This
 produced a new form of communication that impacted directly on the way
 the city was organized, generating new forms of activity that have
 nothing to do with other urbanized public or private spaces.
+
+**Conclusion**
 
 Technically speaking, these technologies are difficult to install,
 manage, support, and train. Chile is not a rich country, and especially
@@ -268,7 +271,7 @@ urbana* to new technologies.
 
 Worldwide, currently there exist several movements for the creation of
 free networks – wireless community networks as a self-provided internet.
-One such group is Guifi.net[^12chapter12_4] who originate from Catalonia, Spain, and
+One such group is Guifi.net[^13chapter12_4] who originate from Catalonia, Spain, and
 are now operating all over Spain and beyond. Here, people use ways of
 pooling their skills and some small funds for materials, to build a
 wireless internet in the sky. With such methods, large scale networks
@@ -322,14 +325,14 @@ yours sincerely,
 
 Armin Medosch, February 2015.
 
-[^12chapter12_1]: Andrea Lo Pumo, *Scalable Mesh Networks and The Address Space
-    Balancing Problem*, dissertation submitted to the University of
+[^13chapter12_1]: Andrea Lo Pumo, Scalable Mesh Networks and The Address Space
+    Balancing Problem, dissertation submitted to the University of
     Cambridge, 31 May 2010,
     https://archive.org/details/scalable\_mesh\_networks\_and\_the\_address\_space\_balancing\_problem-andrea\_lo\_pumo.
 
-[^12chapter12_2]: Wireless Battle Mesh, https://www.battlemesh.org/.
+[^13chapter12_2]: Wireless Battle Mesh, https://www.battlemesh.org/.
 
-[^12chapter12_3]: Espacio G, archived May 2015,
+[^13chapter12_3]: Espacio G, archived May 2015,
     https://web.archive.org/web/20150505210255/http://www.espacio-g.cl/.
 
-[^12chapter12_4]: Guifi.net, https://guifi.net/.
+[^13chapter12_4]: Guifi.net, https://guifi.net/.

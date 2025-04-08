@@ -86,7 +86,7 @@ they brought their citizens cheap broadband, and for Guifi support by
 the municipality makes life much easier. Similar models have also been
 founded in Germany, where Freifunk communities have entered successful
 cooperations with local communities or firms; and in Greece, where in
-the Sarantaporo area wireless community networks[^07chapter7_1] are getting built.
+the Sarantaporo area wireless community networks[^08chapter7_1] are getting built.
 
 The enthusiasm around Sarantaporo is a reminder of how exciting all this
 has been, as it was in other regions 10 years previously. There seems to
@@ -152,14 +152,14 @@ In 2003, 04, 05, there were community networks such as NYC Wireless,
 Seattle Wireless, and Personal Telco, Portland, Oregon. Those
 initiatives were quite vocal and participated in regional and
 international debates. Nowadays you have to search for them like a
-needle in a haystack. As this article[^07chapter7_2] shows, there are still some
+needle in a haystack. As this article[^08chapter7_2] shows, there are still some
 wireless community networks in the USA. This is really great, but
 Pittsburgh’s mesh network with its 11 nodes looks a bit meagre compared
 with Guifi’s almost 28,000 at this point in time (9 April 2015), or
 Freifunk’s nearly 13,000.
 
 The story of one such project, Wireless Philadelphia, is being told in
-this report by New America.[^07chapter7_3] The city of Philadelphia created a
+this report by New America.[^08chapter7_3] The city of Philadelphia created a
 *quango* (a quasi-autonomous non-governmental organization), Wireless
 Philadelphia, with the aim of creating a city-wide wireless network.
 However, this quango made the mistake of handing over the commission to
@@ -180,7 +180,7 @@ community networks. Hardly any seem to exist in the USA today, despite
 the work of organizations such as the Open Technology Institute which
 does its best to promote and study wireless community networks. OTI,
 formerly part of the New America Foundation (which has been renamed New
-America[^07chapter7_4]), is behind projects such as the Digital Stewards scheme in
+America[^08chapter7_4]), is behind projects such as the Digital Stewards scheme in
 Detroit, where people are sent into poor areas to raise digital
 literacy. After the riots in Ferguson and Baltimore in recent months,
 the world has been reminded that in the USA race and class divisions go
@@ -256,16 +256,16 @@ projects *helicopter drop* projects. As a well-meaning person she
 participated, but was already aware that this was possibly not very
 sustainable. And again, soon after Elektra’s departure the project fell
 apart for a number of reasons. One reason, according to Ignacio’s
-report[^07chapter7_5] was that the people in the poor neighborhoods of Valparaiso
+report[^08chapter7_5] was that the people in the poor neighborhoods of Valparaiso
 were not motivated enough. They probably did not feel they had a real
 stake in the project.
 
 It does not necessarily have to be that way. Carlos Rey-Moreno works at
-the University of Western Cape in South Africa. His project, which also
+the University of Eastern Cape in South Africa. His project, which also
 received support through the Open Call of the Confine EU project,
 created a wireless mesh network and Voice-Over-IP (VOIP) project in a
 tribal area in the Eastern Cape province, where the Mankosi people
-live.[^07chapter7_6] Here, the aim has been from the beginning to involve the
+live.[^08chapter7_6] Here, the aim has been from the beginning to involve the
 community as much as possible to create a sustainable model for a
 village telco. As Carlos Rey-Moreno told me in an interview, it is
 important to consider the specific circumstances that came together.
@@ -319,23 +319,23 @@ care not to impose himself on their decision making processes and allow
 them to find their own feet. But now he thinks this has created a model
 that could be replicated with much less work in other, similar areas.
 
-[^07chapter7_1]: Sarantaporo.gr, https://www.sarantaporo.gr/. See also the
+[^08chapter7_1]: Sarantaporo.gr, https://www.sarantaporo.gr/. See also the
     documentary by Personal Cinema, Building Communities of Commons in
     Greece (1:03:15), July 2016,
     https://www.youtube.com/watch?v=T5Uj-twO-zc.
 
-[^07chapter7_2]: Jason Tashea, ‘12 communities experimenting with mesh networks’,
+[^08chapter7_2]: Jason Tashea, 12 communities experimenting with mesh networks,
     Technical.ly, 06 April 2015,
     https://technical.ly/diversity-equity-inclusion/12-communities-experimenting-mesh-networks/.
 
-[^07chapter7_3]: Joshua Breitbart, ‘The Philadelphia Story. Learning from a
-    Municipal Wireless Pioneer’, New America Foundation, ca. 2007,
+[^08chapter7_3]: Joshua Breitbart, The Philadelphia Story. Learning from a
+    Municipal Wireless Pioneer, New America Foundation, ca. 2007,
     https://web.archive.org/web/20130317002126/http://www.newamerica.net/files/nafmigration/NAF\_PhilWireless\_report.pdf.
 
-[^07chapter7_4]: New America, https://www.newamerica.org/.
+[^08chapter7_4]: New America, https://www.newamerica.org/.
 
-[^07chapter7_5]: See below under Case Studies: Free Mesh Networks. Two Cases from
+[^08chapter7_5]: See below under Case Studies: Free Mesh Networks. Two Cases from
     Chile.
 
-[^07chapter7_6]: Village Telco: Mankosi – South Africa,
+[^08chapter7_6]: Village Telco: Mankosi – South Africa,
     https://villagetelco.org/deployments/mankosi-south-africa/.

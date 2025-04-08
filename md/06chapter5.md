@@ -77,11 +77,11 @@ height="2.5631944444444446in"}Fig. 23. Freifunk Freedom Box on
 Mainstream TV.
 
 This action, launched in 2012 under the title *Freifunk statt Angst*
-(Free radio instead of fear)[^05chapter5_1]\
+(Free radio instead of fear)[^06chapter5_1]\
 created plenty of publicity. In an initial action, Freifunk gave away
 one hundred Freifunk Freedom Fighter Boxes. When users logged on to such
 a router, they got a Splash page which informed them about the political
-background.[^05chapter5_2] According to Jürgen Neumann, one of the founders of
+background.[^06chapter5_2] According to Jürgen Neumann, one of the founders of
 Freifunk, the action had always meant to be a temporary publicity stunt.
 However, the battle against *Störerhaftung* in Germany turned out to be
 quite a protracted one. And for many people it offered a relatively safe
@@ -93,9 +93,9 @@ November 2014, there were several court cases going on concurrently. As
 Monic Meisel reported on 27 November 2014, one group of lawsuits had
 been stopped because the claimant had withdrawn all allegations. They
 obviously accepted that the accused was a member of Freifunk and that
-because of its quasi provider-like status there was no liability.[^05chapter5_3] At
+because of its quasi provider-like status there was no liability.[^06chapter5_3] At
 the same time, the public climate also changed. In an article, Prof.
-Thomas Hoeren[^05chapter5_4] reports that a number of court decisions had gone
+Thomas Hoeren[^06chapter5_4] reports that a number of court decisions had gone
 against *Störerhaftung*. Thomas Hoeren is a leading internet law expert
 in Germany and specialized in issues where technology and restrictions
 on it infringe on people’s civil liberties. According to Hoeren, the
@@ -109,18 +109,18 @@ around the world, finding an open WLAN hotspot is quite easy, but not so
 in rich and bandwidth saturated Germany. German media, such as *Heute*,
 the news programme of public national television, have started to
 recognize that *Störerhaftung* is one of the main reasons why there are
-so few open WLAN hotspots in German cities, towns and villages.[^05chapter5_5] The
+so few open WLAN hotspots in German cities, towns and villages.[^06chapter5_5] The
 German coalition government has announced in its coalition agreement to
 enable open WLAN hotspots in German cities. A number of cities such as
 Hamburg now also want to realize this. But until *Störerhaftung* is
 revoked, there will be legal insecurity. A new draft law has been
 created which, it is claimed will provide legal security for node
 owners. But the devil is in the detail and this law is so badly drafted
-that it actually could achieve the opposite, argues Prof. Hoeren.[^05chapter5_6]
+that it actually could achieve the opposite, argues Prof. Hoeren.[^06chapter5_6]
 
 Freifunk has started a campaign in 2014, which has intensified in 2015,
 asking its members to write to their MPs to not vote in favor of this
-law and demand significant changes.[^05chapter5_7] Up until March 2015, more than
+law and demand significant changes.[^06chapter5_7] Up until March 2015, more than
 200 MPs received letters informing them about inefficiencies of this
 draft law. In my view, these are good steps but need to be intensified.
 
@@ -137,7 +137,7 @@ On the most basic layer, material access is political, because there are
 situations and places where the availability of free or cheap broadband
 is an issue. We are reaching a point where not having internet seriously
 disadvantages you – you cannot fully participate in society. Freifunk
-Hamburg, for instance, in this podcast[^05chapter5_8] tells about a refugee camp on
+Hamburg, for instance, in this podcast[^06chapter5_8] tells about a refugee camp on
 the premises of St. Pauli church, where Freifunk Hamburg established a
 free hot-spot, without mightily banging its drum about it. Freifunk is
 now working with refugees in several cities, providing them with free
@@ -162,7 +162,7 @@ more or less free. Here, one of the major sources of insecurity arises
 through issues such as copyright, or more generally speaking,
 intellectual property. In countries with a repressive regime, freedom of
 speech and other issues are also at stake. In my 2004 book *Freie
-Netze*[^05chapter5_9] I tried to systematize those ideas by creating a layered
+Netze*[^06chapter5_9] I tried to systematize those ideas by creating a layered
 model of network freedom. If demand arises, maybe I will translate and
 update this model.
 
@@ -202,36 +202,36 @@ are complex relationships between free networks, free software and
 society. Those problems pose themselves in especially sharp focus when
 free networks are created in poor countries and rural areas.
 
-[^05chapter5_1]: Christian Heise, ‘Aktion gegen Störerhaftung: Anonym im WLAN an
+[^06chapter5_1]: Christian Heise, ‘Aktion gegen Störerhaftung: Anonym im WLAN an
     öffentlichen Plätzen mit Freifunk’, 14 June 2012,
     https://freifunkstattangst.de/2012/06/14/aktion-gegen-storerhaftung-anonym-im-wlan-an-offentlichen-platzen-mit-freifunk/.
 
-[^05chapter5_2]: Splash page of Freifunk WLAN Access Point,
+[^06chapter5_2]: Splash page of Freifunk WLAN Access Point,
     http://anon.freifunk.net/.
 
-[^05chapter5_3]: Monic Meisel, ‘Update zu den Feststellungsklagen’, 23 November
+[^06chapter5_3]: Monic Meisel, ‘Update zu den Feststellungsklagen’, 23 November
     2014:
     http://freifunkstattangst.de/2014/11/23/update-zu-den-feststellungsklagen/.
 
-[^05chapter5_4]: Prof. Dr. Thomas Hoeren, *Schluss mit der Störerhaftung*,
+[^06chapter5_4]: Prof. Dr. Thomas Hoeren, *Schluss mit der Störerhaftung*,
     Süddeutsche Zeitung, 10 May 2015
     https://www.sueddeutsche.de/digital/forum-wer-haftet-1.2473293.
 
-[^05chapter5_5]: Alfred Krüger, ‘Funkstille in deutschen Städten’, ZDF Heute, 25
+[^06chapter5_5]: Alfred Krüger, ‘Funkstille in deutschen Städten’, ZDF Heute, 25
     November 2014, archived April 2015,
     https://web.archive.org/web/20150418235850/http://www.heute.de/freie-wlan-netze-funkstille-in-deutschen-staedten-rechtliches-problem-stoererhaftung-36042870.html.
 
-[^05chapter5_6]: Prof. Dr. Thomas Hoeren, *Schluss mit der Störerhaftung*,
+[^06chapter5_6]: Prof. Dr. Thomas Hoeren, *Schluss mit der Störerhaftung*,
     Süddeutsche Zeitung, 10 May 2015,
     https://www.sueddeutsche.de/wirtschaft/forum-wer-haftet-1.2473293.
 
-[^05chapter5_7]: Christian Heise, Gesetzesentwurf zur Neuregelung der
+[^06chapter5_7]: Christian Heise, Gesetzesentwurf zur Neuregelung der
     Störerhaftung: Wie es jetzt weitergeht…, 13 March 2015,
     https://freifunkstattangst.de/2015/03/13/neuregelung-der-stoererhaftung-wie-es-jetzt-weitergeht/.
 
-[^05chapter5_8]: Hamburg.freifunk.net, podcast Freisprech 12, 06 November 2014,
+[^06chapter5_8]: Hamburg.freifunk.net, podcast Freisprech 12, 06 November 2014,
     https://web.archive.org/web/20150317015328/https://hamburg.freifunk.net/2014/11/freisprech-12.html.
 
-[^05chapter5_9]: Armin Medosch, ‘Freie Netze. Geschichte, Politik und Kultur
+[^06chapter5_9]: Armin Medosch, ‘Freie Netze. Geschichte, Politik und Kultur
     offener WLAN-Netze’, Heise Verlag, Hannover 2004,
     https://ftp.heise.de/tp/buch\_11.pdf.

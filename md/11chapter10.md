@@ -21,7 +21,7 @@ Rights: CC BY-NC 4.0
 
 ![](media/image1.jpeg){width="3.9965277777777777in"
 height="2.9944444444444445in"}Fig. 30. Andrews Road, London, May 2005
-(from Monoskop[^10chapter10_1]).
+(from Monoskop[^11chapter10_1]).
 
 Based on a recent trip to Germany, where vibrant new communities have
 triggered discussions about what makes the essence of Freifunk, I am
@@ -151,7 +151,7 @@ called Funkfeuer (radio beacon). Funkfeuer had the advantage of being
 able to start on the basis of an existing installation. In the late
 1990s, early 2000s, the provider Sil had been one among the most
 innovative internet companies in Europe and worldwide. As I have written
-in my article *Kreative Milieus* (2012[^10chapter10_2]), Sil was the result of a
+in my article *Kreative Milieus* (2012[^11chapter10_2]), Sil was the result of a
 creative milieu, of the coming together of artists, hackers, designers,
 and an entrepreneurial spirit. The company was among the first in Europe
 to offer fixed leased line broadband internet via ADSL for competitive
@@ -283,17 +283,17 @@ other connotations as well rather than just cheap internet. A range of
 new initiatives started, especially in former West Germany, where
 Freifunk had not been that strong during its early years.
 
-For instance, it was only in 2011 that Freifunk Rheinland[^10chapter10_3] was
+For instance, it was only in 2011 that Freifunk Rheinland[^11chapter10_3] was
 founded (Freifunk in the Rhine valley). In 2013, it celebrated its 100th
 node, in May 2015, it had more than 1000 nodes. Freifunk Rheinland
 understands itself as a loose connection of local networks in currently
 42 towns. It has servers at major internet exchanges and is also member
 of RIPE (regional internet registry for Europe). In the vicinity of it,
 there is also Freifunk NRW (North Rhine Westphalia). Actually, it calls
-itself *Verbund freier Netzwerke*[^10chapter10_4] which insinuates that it is an
+itself *Verbund freier Netzwerke*[^11chapter10_4] which insinuates that it is an
 actual umbrella organization which represents all the smaller networks
 belonging to it. This is a hierarchical organization which is not in the
-spirit of the original idea.[^10chapter10_5]
+spirit of the original idea.[^11chapter10_5]
 
 However, to take things further, having a web-based forum is something
 that is anathema to most Freifunk people of an older generation. Some
@@ -306,7 +306,7 @@ called Gluon, which allows remote software updates. Freifunk Munich
 recently proudly informed its members about the successful remote
 upgrade of the firmware of 300 routers. Remote software upgrades of this
 kind fly in the face of the network commons dispositif. Some other
-people have even opened a Freifunk shop[^10chapter10_6] where you can buy hardware
+people have even opened a Freifunk shop[^11chapter10_6] where you can buy hardware
 which has the Freifunk firmware pre-installed. Freifunk Firmware, by the
 way, now exists in two main versions and more than 40 flavors.
 
@@ -349,7 +349,7 @@ original values.
 ## 10.3 Memorandum of Understanding
 
 At the Wireless Community Weekend (WCW) 2015 a *Memorandum of
-Understanding*[^10chapter10_7] was released which summarized the original ideas of
+Understanding*[^11chapter10_7] was released which summarized the original ideas of
 Freifunk and called for an open debate. At the same time a national
 *Advisory Council* was formed which should serve as supervising instance
 in disputes about domain names and related issues. If that will help is
@@ -406,26 +406,26 @@ closed network to the outside world. While being a closed community,
 Funkfeuer can still make important contributions to the development of
 experimental network technology.
 
-[^10chapter10_1]: https://monoskop.org/images/c/c3/Armin\_Medosch\_1962-2017.pdf.
+[^11chapter10_1]: https://monoskop.org/images/c/c3/Armin\_Medosch\_1962-2017.pdf.
 
-[^10chapter10_2]: Armin Medosch, ‘Kreative Milieus’. In *Vergessene Zukunft:
+[^11chapter10_2]: Armin Medosch, ‘Kreative Milieus’. In *Vergessene Zukunft:
     Radikale Netzkulturen in Europa*, 1. Aufl., pp. 19–26. Bielefeld:
     Transcript, 2012.
 
-[^10chapter10_3]: Freifunk Rheinland, https://www.freifunk-rheinland.net/.
+[^11chapter10_3]: Freifunk Rheinland, https://www.freifunk-rheinland.net/.
 
-[^10chapter10_4]: Verbund freier Netzwerke Nordrhein-Westfalen (VFN-NRW), Über den
+[^11chapter10_4]: Verbund freier Netzwerke Nordrhein-Westfalen (VFN-NRW), Über den
     Verein, achived October 2015,
     https://web.archive.org/web/20151011083542/https://vfn-nrw.de/uber-den-verein/.
 
-[^10chapter10_5]: This is claimed in this Forum post which created 254 responses so
+[^11chapter10_5]: This is claimed in this Forum post which created 254 responses so
     far: Freifunk Forum, FreifunkNRW weiterhin irreführend, March/April
     2015,
     https://forum.freifunk.net/t/freifunknrw-weiterhin-irrefuhrend/3448.
 
-[^10chapter10_6]: Freifunk Shop, Herzlich Willkommen im Freifunk-Shop!, archived
+[^11chapter10_6]: Freifunk Shop, Herzlich Willkommen im Freifunk-Shop!, archived
     November 2015,
     https://web.archive.org/web/20151114002919/http://freifunk-shop.net/.
 
-[^10chapter10_7]: ‘Memorandum of Understanding’, *Freifunk Blog,* 15 May 2015,
+[^11chapter10_7]: ‘Memorandum of Understanding’, *Freifunk Blog,* 15 May 2015,
     https://blog.freifunk.net/2015/05/15/memorandum-understanding/.

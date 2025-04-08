@@ -21,7 +21,7 @@ Rights: CC BY-NC 4.0
 
 ![](media/image1.jpeg){width="3.5416666666666665in"
 height="4.722222222222222in"}Fig. 24. Carnival Against Capitalism –18
-June 1999.
+June 1999. Photo: Manu Luksch.
 
 This chapter takes a bird’s-eye view of history, locating the
 developments of wireless community networks within a historical
@@ -36,9 +36,9 @@ The historical context of the problems and issues regarding wireless
 community networks is what I call an incomplete paradigm shift. The term
 *paradigm* is used here in a specific and well defined sense. While the
 *paradigm* has been introduced into the scientific language by Thomas
-Kuhn’s seminal book *The Structure of Scientific Revolutions*,[^06chapter6_1] it
+Kuhn’s seminal book *The Structure of Scientific Revolutions*,[^07chapter6_1] it
 has been given new meaning by the Innovation School in economics who,
-building on Kuhn’s work, coined the term *techno-economic paradigm*.[^06chapter6_2]
+building on Kuhn’s work, coined the term *techno-economic paradigm*.[^07chapter6_2]
 Christopher Freeman and colleagues at the Science Policy Research Unit
 (SPRU), a semi-independent research institute connected with the
 University of Sussex, developed a theory of innovation in industrial
@@ -57,7 +57,7 @@ staple foods such as grains who found out that there were so called
 upswing of 25 years, followed by a downswing of roughly equal length.
 Those time periods are not mechanical but research since Kondratiev has
 confirmed the existence of swings in economic activity of approximately
-between 40 and 60 years.[^06chapter6_3]
+between 40 and 60 years.[^07chapter6_3]
 
 The period of a downswing, especially in its later stages, is usually
 experienced as a severe economic crisis. Schumpeter’s contribution has
@@ -76,7 +76,7 @@ for a new paradigm to come into place.
 The Venezuelan economist Carlota Perez, who also worked with Freeman and
 SPRU, has developed a stylized model of paradigm change, which gives
 this whole development some further plausibility. According to Perez,
-the new paradigm develops inside the womb of the old one.[^06chapter6_4] Perez has
+the new paradigm develops inside the womb of the old one.[^07chapter6_4] Perez has
 divided the 50 years of the *long-cycle* into four quarters, separated
 by an interstice. The first quarter is when innovation gets started,
 usually by forward looking people, inventors, entrepreneurs, risk taking
@@ -178,7 +178,7 @@ flatter hierarchies and cooperation. This found its most pronounced
 expression in the leading sector, ICT (Information and Communications
 Technology), where *commons-based peer production* became the new norm.
 This term, coined by Yochai Benkler, suggests a new cooperative type of
-production, pioneered in free and open source software.[^06chapter6_5] People
+production, pioneered in free and open source software.[^07chapter6_5] People
 decide themselves on which projects they want to work and freely
 associate themselves with software projects. These projects are then
 often not organized in a completely egalitarian way, sometimes there are
@@ -199,7 +199,7 @@ each other directly, through the internet, or use *on demand* platforms
 to watch what they want, when and where they want it. This would seem in
 principle to foster a much more egalitarian media culture, a *read and
 write* media culture, as Lawrence Lessig, advocate of the Creative
-Commons licenses for free content, has called it.[^06chapter6_6]
+Commons licenses for free content, has called it.[^07chapter6_6]
 
 The problem at which I wanted to get through this rather lengthy
 parenthesis is that all those great ideas and innovations have somehow
@@ -272,7 +272,7 @@ foundational technologies of the internet were developed in the late
 1960s, by staff and students at public universities, who made the
 results of their research public, thus creating the foundations of the
 digital commons. Inspired administrators such as J.C.R. Licklider were
-driven by visions of networked digital public libraries.[^06chapter6_7]
+driven by visions of networked digital public libraries.[^07chapter6_7]
 
 The information society has inherited those ethical values which have
 also become embodied in the structure of digital technologies in general
@@ -289,7 +289,7 @@ up social self-organization and a free culture of sharing and
 cooperation. Advocates of free culture need to be careful, however, not
 to become victims of their own ideology.
 
-As this article on Rhizome[^06chapter6_8] has pointed out, there is a connection
+As this article on Rhizome[^07chapter6_8] has pointed out, there is a connection
 between mesh networking and decentralization in general, but this opens
 the danger of a re-centralization. In an article in 2004, I speculated
 about similar issues, regarding a *Society in Ad-hoc Mode*. We have to
@@ -304,7 +304,7 @@ structures such as the G7/8/20 conferences. They like them, rather than
 more democratically legitimate structures such as the UNO. Globally
 important decisions are made by ad-hoc committees rather than more
 democratically legitimized multinational structures. The allocation of
-the means of social production – and that is what finance is[^06chapter6_9] – is
+the means of social production – and that is what finance is[^07chapter6_9] – is
 regulated by stock markets which are increasingly networked and
 automated, rather than by considerations about the well-being of people,
 animals, plants and the sustainability of natural resources.
@@ -318,7 +318,7 @@ political culture of the Net in the 1990s. As the old class politics
 were replaced by a newly constituted *working class*, which has become
 rechristened as the *multitudes*, new forms of networked protest were
 pioneered in the 1990s. With support of the Association for Progressive
-Communications[^06chapter6_10] during the Chiapas uprising in 1994, messages from
+Communications[^07chapter6_10] during the Chiapas uprising in 1994, messages from
 Subcommandante Marco were smuggled out of the Lacandona jungle via the
 Net and triggered a global campaign of solidarity which stopped the
 Mexican army from committing genocide against the descendants of the
@@ -352,12 +352,12 @@ in a new dress-up. In the worst case, this can become part of an
 ideology, where neoliberalism, libertarianism (or anarchism), high-tech
 and finance meet to create new ideologies of power and domination, for
 which the best example is still Kevin Kelly’s book *Out of
-Control*.[^06chapter6_11]
+Control*.[^07chapter6_11]
 
 Against this backdrop, I have advocated, already years ago, a political
 understanding of the term *self-organization*. One of the few coherent
 concepts for self-organization was developed by the philosopher,
-psychoanalyst and political activist Cornelius Castoriadis.[^06chapter6_12]
+psychoanalyst and political activist Cornelius Castoriadis.[^07chapter6_12]
 
 Castoriadis’ ideas center on autonomy (self-determination) as opposed to
 heteronomy (outside control). In his view, self-organization is not
@@ -365,7 +365,7 @@ simply a better model for organization or management, serving instead as
 a principle for ‘the permanent and explicit self-institution of society;
 that is to say, a state in which the collectivity knows that its
 institutions are its own creation and has become capable of regarding
-them as such, of taking them up again and transforming them.’[^06chapter6_13]
+them as such, of taking them up again and transforming them.’[^07chapter6_13]
 Castoriadis went back to the direct democracy of the Greek city state in
 order to find out how democracy should reinvent itself today. This
 vision could also be achieved by using self-organizing technologies such
@@ -380,7 +380,7 @@ first, about the digital commons, then about the notion of the commons
 in general. The rise of the information society enabled an avant-garde
 of software developers to create the digital commons. As I have
 described in much more detail in my article *Shockwaves in the New World
-Order of Information and Communication*[^06chapter6_14] the success of the digital
+Order of Information and Communication*[^07chapter6_14] the success of the digital
 commons has then been transposed into other areas. People such as Michel
 Bauwens of the Peer-2-Peer Foundation are propagating the idea of the
 commons as a new social model that could be applied in all areas. After
@@ -404,8 +404,6 @@ emergence and complexity its own, while actually building new
 hierarchies and new forms of domination and repression.
 
 ## 6.1 Comment: Brian Holmes: The Long-Awaited Shift is not the Paradigm
-
-### 
 
 Armin, you are a very strict guy when it comes to concepts. From my view
 that's fantastic and I think you should go a little further with it.
@@ -447,7 +445,7 @@ Yet probably in the time I have been writing this, solar panels have
 gotten cheaper. Certainly their cost has plummeted over the last five
 years. We know from the history of techno-politics that a change in
 energy source is a major change indeed (cf. the book *Carbon
-Democracy*,[^06chapter6_15] a fundamental book for all that interests us). Solar
+Democracy*,[^07chapter6_15] a fundamental book for all that interests us). Solar
 panels become socially progressive in the context of decentralized smart
 grids, and even more so when they are used to power micro-manufacturing
 technologies. Under normal circumstances, these are the kinds of
@@ -466,45 +464,44 @@ news for the capitalists! Or to hell with them, I say. Now, as in the
 20s and 30s of the last century, what we can struggle for is something
 far more beneficial. A change in the mode of development itself.
 
-[^06chapter6_1]: Thomas S. Kuhn, *The Structure of Scientific Revolutions*.
-    Chicago: University of Chicago Press, 1962.
+[^07chapter6_1]: Thomas S. Kuhn, The Structure of Scientific Revolutions. Chicago:
+    University of Chicago Press, 1962.
 
-[^06chapter6_2]: Christopher Freeman and Luc Soete, *The Economics of Industrial
-    Innovation*. 3rd revised. Cambridge Mass.: MIT Press, 1997.
+[^07chapter6_2]: Christopher Freeman and Luc Soete, The Economics of Industrial
+    Innovation. 3rd revised. Cambridge Mass.: MIT Press, 1997.
 
-[^06chapter6_3]: Joshua S. Goldstein, *Long Cycles: Prosperity and War in the
-    Modern Age*. New Haven: Yale University Press, 1988.
+[^07chapter6_3]: Joshua S. Goldstein, Long Cycles: Prosperity and War in the Modern
+    Age. New Haven: Yale University Press, 1988.
 
-[^06chapter6_4]: Carlota Perez, *Technological Revolutions and Financial Capital:
-    The Dynamics of Bubbles and Golden Ages*. Cheltenham, UK;
+[^07chapter6_4]: Carlota Perez, Technological Revolutions and Financial Capital:
+    The Dynamics of Bubbles and Golden Ages. Cheltenham, UK;
     Northampton, MA, USA: Edward Elgar Publishing, 2002.
 
-[^06chapter6_5]: Yochai Benkler, *The Wealth of Networks : How Social Production
-    Transforms Markets and Freedom*. New Haven, Conn.: Yale University
+[^07chapter6_5]: Yochai Benkler, The Wealth of Networks : How Social Production
+    Transforms Markets and Freedom. New Haven, Conn.: Yale University
     Press, 2006.
 
-[^06chapter6_6]: Lawrence Lessig, *Free Culture: How Big Media Uses Technology and
-    the Law to Lock Down Culture and Control Creativity*. London:
-    Penguin Books, 2004.
+[^07chapter6_6]: Lawrence Lessig, Free Culture: How Big Media Uses Technology and
+    the Law to Lock Down Culture and Control Creativity. London: Penguin
+    Books, 2004.
 
-[^06chapter6_7]: Morris Mitchell Waldrop, *The Dream Machine : J. C. R. Licklider
-    and the Revolution that Made Computing Personal*. New York: Penguin
+[^07chapter6_7]: Morris Mitchell Waldrop, The Dream Machine : J. C. R. Licklider
+    and the Revolution that Made Computing Personal. New York: Penguin
     Books, 2002.
 
-[^06chapter6_8]: Adam Rothstein, ‘Making Internet Local’, Rhizome, 06 November
-    2014,
+[^07chapter6_8]: Adam Rothstein, Making Internet Local, Rhizome, 06 November 2014,
     https://rhizome.org/editorial/2014/nov/6/making-internet-local-mesh-network/.
 
-[^06chapter6_9]: Saskia Sassen, ‘Finance as Capability: Good, Bad, Dangerous’,
-    *Arcade,* 2014,
+[^07chapter6_9]: Saskia Sassen, Finance as Capability: Good, Bad, Dangerous, Arcade
+    2014,
     https://web.archive.org/web/20150620143536/http://arcade.stanford.edu/occasion/finance-capability-good-bad-dangerous.
 
-[^06chapter6_10]: Association for Progressive Communications, https://www.apc.org/.
+[^07chapter6_10]: Association for Progressive Communications, https://www.apc.org/.
 
-[^06chapter6_11]: Kevin Kelly, *Out of Control: The New Biology of Machines, Social
-    Systems & the Economic World*. New York: Basic Books, 1995.
+[^07chapter6_11]: Kevin Kelly, Out of Control: The New Biology of Machines, Social
+    Systems & the Economic World. New York: Basic Books, 1995.
 
-[^06chapter6_12]: Cornelius Castoriadis took part in the attempted Communist coup
+[^07chapter6_12]: Cornelius Castoriadis took part in the attempted Communist coup
     in Greece in 1944. This experience turned him into an opponent of
     Stalinism and he went to France, where he joined the Trotskyites,
     soon leaving again due to their authoritarian tendencies. He then
@@ -515,11 +512,11 @@ far more beneficial. A change in the mode of development itself.
     time to publicly criticize Stalinism, as well as publishing
     critiques of Marx’s historical determinism.
 
-[^06chapter6_13]: Cornelius Castoriadis, *The Castoriadis Reader*. Oxford;
-    Cambridge, Mass.: Blackwell Publishers, 1997, p. 30.
+[^07chapter6_13]: Cornelius Castoriadis, The Castoriadis Reader. Oxford; Cambridge,
+    Mass.: Blackwell Publishers, 1997, p. 30.
 
-[^06chapter6_14]: Christiane Paul (ed.) *A Companion to Digital Art*, Hoboken, NJ:
-    Wiley-Blackwell, 2016, pp. 353-383.
+[^07chapter6_14]: In Blackwell Companion to Digital Art. Paul, Christiane, ed.,
+    Hoboken, NJ: Wiley-Blackwell, 2016, pp. 353-383.
 
-[^06chapter6_15]: Timothy Mitchell, *Carbon Democracy: Political Power in the Age
+[^07chapter6_15]: Timothy Mitchell, *Carbon Democracy: Political Power in the Age
     of Oil*, Verso, 2011.

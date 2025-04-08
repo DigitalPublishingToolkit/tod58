@@ -53,7 +53,7 @@ map. Within the space of two years, this proposition had become a
 remarkable success.
 
 Consume nodes and networks popped up all over the UK. Consume had made
-it into mainstream media such as the newspaper The Guardian.[^02chapter2_1] The
+it into mainstream media such as the newspaper The Guardian.[^03chapter2_1] The
 project also successfully tied into the discourse on furthering access
 to broadband in Britain. The New Labour government of Tony Blair was,
 rhetorically at least, promising to roll out broadband to all as quickly
@@ -87,7 +87,7 @@ from London and Berlin. Taking inspiration from Robert Adrian X’s early
 art and telecommunication projects, we called this workshop BerLon,
 uniting the names Berlin and London. Robert Adrian X had connected Wien
 (Vienna, Austria) and Vancouver, Canada through four projects between
-1979 and 1983, calling them WienCouver.[^02chapter2_2]
+1979 and 1983, calling them WienCouver.[^03chapter2_2]
 
 Our organizational partner in Berlin was Bootlab, a shared workspace in
 Berlin Mitte, where a lot of people had a desk who were interested in
@@ -265,7 +265,7 @@ We agreed that it was conditional for participation in a free network
 that every node owner should accept to pass on data destined for other
 nodes without filtering or discriminating. We can claim that we defined
 what today is called network neutrality as centerpiece of the Copenhagen
-Interpolation of the Pico Peering Agreement.[^02chapter2_3]
+Interpolation of the Pico Peering Agreement.[^03chapter2_3]
 
 While it is important, and I am happy to have contributed to it, I see
 things slightly differently today. I think the real key to Free Networks
@@ -274,10 +274,10 @@ cannot be guaranteed by any license but only by the shared understanding
 of the network commons. The license, however, is an important additional
 device.
 
-[^02chapter2_1]: Jack Schofield, ‘Wi-Fi can bring broadband for all’, The Guardian,
+[^03chapter2_1]: Jack Schofield, ‘Wi-Fi can bring broadband for all’, The Guardian,
     20 June 2002,
     http://www.theguardian.com/technology/2002/jun/20/news.onlinesupplement.
 
-[^02chapter2_2]: WienCouver, http://kunstradio.at/HISTORY/TCOM/WC/wc-index.html.
+[^03chapter2_2]: WienCouver, http://kunstradio.at/HISTORY/TCOM/WC/wc-index.html.
 
-[^02chapter2_3]: Pico Peering Agreement, http://www.picopeer.net/.
+[^03chapter2_3]: Pico Peering Agreement, http://www.picopeer.net/.

@@ -51,7 +51,7 @@ which allows users to rate network builders, who are often small IT
 companies, consisting of one or two people. In times of a severe
 economic crisis in Spain, this enables aficionados of free software and
 free networks to earn a bit of money. Maybe this gives Guifi a chance to
-maintain its fast growth rates.[^08chapter8_1]
+maintain its fast growth rates.[^09chapter8_1]
 
 ![](media/image1.jpeg){width="3.386111111111111in"
 height="3.0479166666666666in"}Fig. 28. Guifi growth rates from 2004 with
@@ -242,5 +242,5 @@ percent. By having alternatives, we can ensure to meet the Digital
 Agenda 2020 of the European Union. We are maybe a minority, but we are
 still ten percent. And that ten percent will make a difference.
 
-[^08chapter8_1]: Guifi.net: Node statistics,
+[^09chapter8_1]: Guifi.net: Node statistics,
     https://guifi.net/guifi/menu/stats/nodes.

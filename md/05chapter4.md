@@ -47,7 +47,7 @@ happily added, this meant that a whole family of chips by one wireless
 provider, Broadcom 802.11b/g, supported Linux. ‘Complaints appeared on
 discussion boards such as LKML and Slashdot claiming that Linksys was
 violating the GPL by not providing source code for certain code used in
-its WRT54G wireless access point.’[^04chapter4_1]
+its WRT54G wireless access point.’[^05chapter4_1]
 
 The Free Software Foundation stepped in, leading the campaign for
 enforcement of the GPL. Cisco was brought to comply by publishing the
@@ -61,7 +61,7 @@ stable GNU/Linux distribution specifically for small wireless devices.
 The WRT54G became the most popular router for community networks, and
 this is where OpenWRT has its name from. Meanwhile, OpenWRT works on
 many embedded devices such as WLAN routers but also wireless hard-drives
-and basically everything that networks.[^04chapter4_2]
+and basically everything that networks.[^05chapter4_2]
 
 Firmware replacement had been the battle-cry of East London
 artist-engineers such as Alexei Blinov and Adam Burns in 2003-4. It was
@@ -79,7 +79,7 @@ devices would tell if they offer services such as streams, voice chat,
 podcasts, skype, jabber, and others.
 
 With OpenWRT, this utopia came that bit closer, but as this interview
-with Sven Ola-Tücke[^04chapter4_3] also attests to, it needed great skill and
+with Sven Ola-Tücke[^05chapter4_3] also attests to, it needed great skill and
 tenacity, even with OpenWRT. You needed to create a directory on a Linux
 machine for compiling the firmware. To compile one Linux kernel on a
 machine for another machine is very difficult, especially if the other
@@ -100,17 +100,17 @@ hardware to build the network commons through OpenWRT was undoubtedly a
 great step, hence now software experimentation could begin.
 
 Another important step was the release of OLSR 0.48. In this
-announcement by Elektra,[^04chapter4_4] the advances of this protocol are
+announcement by Elektra,[^05chapter4_4] the advances of this protocol are
 explained. The Open Link State Routing protocol was developed initially
 as a master thesis by Andreas Tønnesen at UniK – University Graduate
 Centre. In the context of Wizards of OS he was invited to give a
 presentation at c-base. The conference series Wizards of Operating
 Systems was initiated by Volker Grassmuck and ran from 1999 to 2006. In
-2004 we made a panel on free networks[^04chapter4_5] and a workshop.[^04chapter4_6] The latter
+2004 we made a panel on free networks[^05chapter4_5] and a workshop.[^05chapter4_6] The latter
 was organized by the community, that is largely by Elektra and Sven
 Wagner. At the main conference Dewayne Hendricks talked about a 2
 Gigabit network for California, constantly referring to the
-*holodeck*.[^04chapter4_7]
+*holodeck*.[^05chapter4_7]
 
 The workshop was dedicated to mesh networking and was to have lasting
 repercussions. The Freifunk community started using OLSR, which gave
@@ -123,14 +123,14 @@ the wireless medium, which is unpredictable.
 
 At WOS3 a number of MeshCubes from 4G systems were used to create the
 network at the conference venue. It was running OLSR and the quality of
-service was horrible, according to an online posting.[^04chapter4_8] But within the
+service was horrible, according to an online posting.[^05chapter4_8] But within the
 space of a few months the metrics used were significantly improved. OLSR
 started to use routes according to the actual quality of transmission,
 the so called ETX metrics (Expected Transmission Count).
 
 This was the start of a long story of community development of mesh
 networking. Who wants to get more into the technology should read *Mesh
-– Drahtlose Ad-hoc Netze* by Corinna *Elektra* Aichele.[^04chapter4_9] According to
+– Drahtlose Ad-hoc Netze* by Corinna *Elektra* Aichele.[^05chapter4_9] According to
 her, the release of OLSR 0.48 in December 2004 was a major step in mesh
 routing. We could say that mesh routing is the paradigmatic technology,
 the one which is most expressive of this dispositif, because it brings
@@ -141,7 +141,7 @@ I will return to the topic of mesh routing but stick to the timeline.
 Some of the *technologies* which communities have developed are rather
 more like techniques, social technologies in a more direct sense, ways
 of doing things. At around 2004-5, Cornelius Keller put the website
-OLSR-Experiment online.[^04chapter4_10] This was a website which according to a
+OLSR-Experiment online.[^05chapter4_10] This was a website which according to a
 logic following Berlin’s postcodes, handed out IP addresses for people
 who wanted their wireless router to be part of Freifunk. The visual
 logic of this method you can follow here:
@@ -150,7 +150,7 @@ logic of this method you can follow here:
 height="3.4875in"}Fig. 19. Berlin map by postal codes.
 
 As another snapshot shows, in a series of core meetings, the Berlin
-community decided how to use the IP addresses for a Class B Net.[^04chapter4_11]
+community decided how to use the IP addresses for a Class B Net.[^05chapter4_11]
 
 Last not least, in autumn 2004 Sven-Ola Tücke had started developing
 Freifunk Firmware. Initially it was developed for the Berlin Backbone,
@@ -202,13 +202,13 @@ proximity: Creative Commons was making a breakthrough with having one
 million of its licenses used in 2003. Wikipedia was started in 2001 and
 was gaining critical mass. Many GNU/Linux distributions appeared for
 creative tasks, such as Dyne.org, Puredyne, Knoppix. The protocol
-Netsukuku[^04chapter4_12] was developed, a really explicitly political technology,
+Netsukuku[^05chapter4_12] was developed, a really explicitly political technology,
 a peer based routing protocol. It has changed a lot since its first
 release in 2005 and now seems to take on a very interesting
-direction.[^04chapter4_13]
+direction.[^05chapter4_13]
 
 In 2003 together with FACT, commissioned by Michael Connor, we made a
-brochure and DVD, with Kingdom of Piracy.[^04chapter4_14] It was like a toolbox for
+brochure and DVD, with Kingdom of Piracy.[^05chapter4_14] It was like a toolbox for
 free culture, in software, intellectually, in art.
 
 ![](media/image3.jpeg){width="3.9756944444444446in"
@@ -247,11 +247,11 @@ things that were the product of community based innovations and were
 created in a decentralized way, were reunited in a new centrality, the
 soon to rise monster of *social media*. As Evgeny Morozov explains, the
 capacity to coin those terms gives a lot of interpretative power to
-Silicon Valley.[^04chapter4_15]
+Silicon Valley.[^05chapter4_15]
 
 In my view, you could say that the early 2000s were a time when a
 peer-to-peer view of the world was formulated on many layers. Michel
-Bauwens and the P2P foundation’s Wiki[^04chapter4_16] may also give testimony to
+Bauwens and the P2P foundation’s Wiki[^05chapter4_16] may also give testimony to
 that. But these were still ideas by a relatively small elite. The
 majority of the world was busy with *the war on terror*. As we now know,
 it was used as a pretext to build a gigantic surveillance machinery.
@@ -278,71 +278,71 @@ mainstream media attention recently.
 The former motor city is still in a process of de-urbanization. Inner
 city communities have appallingly low broadband connection rates, a
 digital divide reminiscent of a developing country in the heart of
-industrial America.[^04chapter4_17] A project to bring WLAN to a community on the
+industrial America.[^05chapter4_17] A project to bring WLAN to a community on the
 outskirts of Valparaiso, Chile, has started and gets documented on these
-pages here.[^04chapter4_18]
+pages here.[^05chapter4_18]
 
-[^04chapter4_1]: Heather J. Meeker, *Open Source and the Legend of Linksys*, Linux
+[^05chapter4_1]: Heather J. Meeker, *Open Source and the Legend of Linksys*, Linux
     Insider, 28.06.2005,
 
     http://www.linuxinsider.com/story/43996.html.
 
-[^04chapter4_2]: Here is a long list of devices on which it is possibly running:
+[^05chapter4_2]: Here is a long list of devices on which it is possibly running:
     OpenWrt: Table of Hardware, http://wiki.openwrt.org/toh/start.
 
-[^04chapter4_3]: Fab, ‘Interview mit Sven-Ola Tuecke’, Wireless-Forum, 15 March
+[^05chapter4_3]: Fab, ‘Interview mit Sven-Ola Tuecke’, Wireless-Forum, 15 March
     2006, archived October 2007,
     https://web.archive.org/web/20071029082121/http://www.wireless-forum.ch/forum/viewtopic.php?t=16140.
 
-[^04chapter4_4]: Elektra, ‘OLSR 0.48 zum Download freigegeben’, Indymedia, 7
+[^05chapter4_4]: Elektra, ‘OLSR 0.48 zum Download freigegeben’, Indymedia, 7
     December 2004, archived February 2005,
     http://de.indymedia.org/2004/12/101054.shtml.
 
-[^04chapter4_5]: rc.fn runcommand reality check freenetworks, panel at WOS3, 10
+[^05chapter4_5]: rc.fn runcommand reality check freenetworks, panel at WOS3, 10
     June 2004, http://www.wizards-of-os.org/index.php?id=926.
 
-[^04chapter4_6]: Armin Medosch, ‘run command free networks – a reality check’,
+[^05chapter4_6]: Armin Medosch, ‘run command free networks – a reality check’,
     Workshop at WOS3, 10 June 2004,
     http://www.wizards-of-os.org/index.php?id=719.
 
-[^04chapter4_7]: Dewayne Hendricks, ‘One Gigabit or Bust™ Initiative – A Broadband
+[^05chapter4_7]: Dewayne Hendricks, ‘One Gigabit or Bust™ Initiative – A Broadband
     Vision for California’, at WOS3, 10 June 2004, Abstract:
     http://www.wizards-of-os.org/index.php?1659; Video:
     https://archive.org/details/3\_do\_t1\_13h\_2-Hendricks/3\_do\_t1\_13h\_2-Hendricks\_hi.mp4.
 
-[^04chapter4_8]: Berlin OLSR Wireless Mesh Testbed at Wizards of OS 3,
+[^05chapter4_8]: Berlin OLSR Wireless Mesh Testbed at Wizards of OS 3,
     free2air.org, 16.06.2004,
     http://www.free2air.org/story/2004/6/16/103734/486/.
 
-[^04chapter4_9]: Corinna Elektra Aichele, ‘Mesh – Drahtlose Ad-hoc Netze’, Open
+[^05chapter4_9]: Corinna Elektra Aichele, ‘Mesh – Drahtlose Ad-hoc Netze’, Open
     Source Press, München, 2007. Extract available at:
     https://download-master.berlin.freifunk.net/ebooks/mesh\_kapitel4\_leseprobe.pdf.
 
-[^04chapter4_10]: Cornelius Keller, OLSR-Experiment, archived December 2005,
+[^05chapter4_10]: Cornelius Keller, OLSR-Experiment, archived December 2005,
     https://web.archive.org/web/20051211030128/http://olsrexperiment.de/.
 
-[^04chapter4_11]: Freifunk, Ergebnisprotokoll CoreMeeting 2004-10-20, Freifunk
+[^05chapter4_11]: Freifunk, Ergebnisprotokoll CoreMeeting 2004-10-20, Freifunk
     Wiki, archived February 2005,
     https://web.archive.org/web/20050219235855/http://www.freifunk.net/wiki/CoreMeeting20041020.
 
-[^04chapter4_12]: Wikipedia: Netsukuku, http://en.wikipedia.org/wiki/Netsukuku.
+[^05chapter4_12]: Wikipedia: Netsukuku, http://en.wikipedia.org/wiki/Netsukuku.
 
-[^04chapter4_13]: Ibid. Netsukuku development and mailing list traffic appear to
+[^05chapter4_13]: Ibid. Netsukuku development and mailing list traffic appear to
     have ceased circa 2009.
 
-[^04chapter4_14]: Kingdom of Piracy (KOP), online workshop, 22 February 2003 – 26
+[^05chapter4_14]: Kingdom of Piracy (KOP), online workshop, 22 February 2003 – 26
     March 2003, archived March 2016,
     https://web.archive.org/web/20160303075302/http://www.fact.co.uk/projects/kingdom-of-piracy.aspx.
 
-[^04chapter4_15]: Evgeny Morozov: ‘The Meme Hustler’, The Baffler, April 2013,
+[^05chapter4_15]: Evgeny Morozov: ‘The Meme Hustler’, The Baffler, April 2013,
     http://www.thebaffler.com/salvos/the-meme-hustler.
 
-[^04chapter4_16]: P2P Foundation Wiki, https://wiki.p2pfoundation.net/.
+[^05chapter4_16]: P2P Foundation Wiki, https://wiki.p2pfoundation.net/.
 
-[^04chapter4_17]: Detroit Digital Stewards,
+[^05chapter4_17]: Detroit Digital Stewards,
     https://detroitdigitalstewards.tumblr.com/.
 
-[^04chapter4_18]: Ignacio Nieto, ‘Free Mesh Networks. Two Cases from Chile’, The
+[^05chapter4_18]: Ignacio Nieto, ‘Free Mesh Networks. Two Cases from Chile’, The
     Next Layer, 31 May 2015
     https://webarchiv.servus.at/thenextlayer.org/node/1325.html. See
     also section 12.1 of this book.

@@ -16,17 +16,14 @@ Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
 ...
 
----
----
-
 
 # 1. The Rise of the Network Commons
 
 The Rise of the Network Commons returns to the topos of the wireless
 commons on which I worked during the early 2000s. In this new version,
-combining original research from my German book *Freie Netze*[^01chapter1_1] (2004)
+combining original research from my German book *Freie Netze*[^02chapter1_1] (2004)
 and new research conducted in the context of the EU funded project
-*Confine*[^01chapter1_2] (2012-2015), the exciting world of wireless community
+*Confine*[^02chapter1_2] (2012-2015), the exciting world of wireless community
 network projects such as Guifi.net and Freifunk, Berlin, gets
 interspersed with philosophical reflections on the relationship between
 technology, art, politics, and history.
@@ -59,17 +56,17 @@ possible.
 Visiting Gurb and talking to Ramon for nearly a full day has revitalized
 my fascination for wireless (and wired) community networks. I have
 written a book on wireless community networks in 2003, in German, under
-the title *Freie Netze* (Free Networks).[^01chapter1_3] The choice of title back
+the title *Freie Netze* (Free Networks).[^02chapter1_3] The choice of title back
 then had deliberately emphasized the analogy between Free Networks and
 Free Software. The title had been inspired by two very different
 influences. On one hand there had been Volker Grassmuck’s early book
-Freie Software.[^01chapter1_4] Volker’s magisterial work provided deep insight into
+Freie Software.[^02chapter1_4] Volker’s magisterial work provided deep insight into
 the history and politics of Free Software and stood out for me as an
 example how a book on wireless community networks should be written. The
 other inspiration had been provided by a sweeping lecture in Vienna in
 June 2003 by Eben Moglen, lawyer of the Free Software foundation and
 legal brain behind the licensing model of Free Software, the GNU General
-Public License (GPL[^01chapter1_5]). Moglen’s thunderous and captivating speech had
+Public License (GPL[^02chapter1_5]). Moglen’s thunderous and captivating speech had
 presented the combination of Free Software, Free Hardware and Free
 Networks like a kind of holy trinity of the everything-free-and-open
 movement. Moglen’s conclusion was that while Free Software was already
@@ -255,7 +252,7 @@ For this reason, Consume.net started to get interested in a technology
 called mesh networking. In the year 2000 mesh network protocols were
 still very much in their infancy. There was a working group called
 Mobile Ad-hoc Networking (Manet), supported by the US military. In
-Germany, a small company was building something called MeshCube.[^01chapter1_6] It
+Germany, a small company was building something called MeshCube.[^02chapter1_6] It
 was a working technology but it was not really open source and only the
 developer knew how to run it. When Consume.net started to work with mesh
 network technology, this seemed to be a utopian technology. While
@@ -282,7 +279,7 @@ networks and network freedom.
 I am appropriating the term *dispositif* from Michel Foucault who used
 it to ‘refer to the various institutional, physical, as well as
 administrative mechanisms and knowledge structures which enhance and
-maintain the exercise of power within the social body.’[^01chapter1_7]
+maintain the exercise of power within the social body.’[^02chapter1_7]
 
 Our mesh network dispositif does not (yet) add up to all society, but it
 is something that is widely shared among techies building wireless
@@ -388,11 +385,11 @@ The BBS world was like a testing ground for virtual communities where
 certain types of behavior could form. This could be elements of a
 netiquette, but also an understanding of what it means to be on-line in
 the first place. Stories about early on-line communities by authors such
-as Sandy Stone[^01chapter1_8] and Howard Rheingold[^01chapter1_9] describe how these
+as Sandy Stone[^02chapter1_8] and Howard Rheingold[^02chapter1_9] describe how these
 communities, some of which go back to the early 1970s, foster social (or
 anti-social ;-) behaviour.
 
-First artistic experiments with *Art and Telecommunication*[^01chapter1_10] began
+First artistic experiments with *Art and Telecommunication*[^02chapter1_10] began
 in the late 1970s. The Canadian artist Robert Adrian X, who by then was
 living in Vienna, started an artist’s conference board called Artex on a
 proprietary network in 1980. Fellow artist Roy Ascott described in vivid
@@ -404,7 +401,7 @@ with artists in Australia, Europe, and North America, once or twice a
 week through I.P. Sharp’s ARTBOX. I have not come down from that high
 yet and frankly I don’t expect to. Logging in to the network, sharing
 the exchange of ideas, propositions, visions and sheer gossip is
-exhilarating. In fact it becomes totally compelling and addictive.[^01chapter1_11]
+exhilarating. In fact it becomes totally compelling and addictive.[^02chapter1_11]
 
 Similar feelings have been shared by almost everyone who experienced an
 always-on network connection. But let us return to the BBS world, which
@@ -434,7 +431,7 @@ multinational and non governmental organizations, campaigners for the
 environment, workers’ rights and indigenous groups, as well as the
 occasional commercial web page of a forward looking company and the
 standard setting physics department homepage which has been immortalized
-by artist Olia Lialina with this work *Some Universe*[^01chapter1_12]. Olia Lialina
+by artist Olia Lialina with this work *Some Universe*[^02chapter1_12]. Olia Lialina
 has also collected *Under Construction* signs such as this one, another
 charming aspect of the early web:
 
@@ -480,7 +477,7 @@ Service (VBS). This network was offered by three small ISPs as a
 cooperative effort, but it was also *provided* by many of its first
 customers who were hosting network exchange services in their cupboards.
 
-Because of the *creative milieu*[^01chapter1_13] in which Obereder existed, he knew
+Because of the *creative milieu*[^02chapter1_13] in which Obereder existed, he knew
 many artists and techies or combinations of those, who had high
 bandwidth needs and some technical skills. As he by now had founded a
 company, called Silverserver – later shortened to Sil – they had found
@@ -505,7 +502,7 @@ for a node.
 ![](media/image5.jpeg){width="5.963888888888889in"
 height="3.9756944444444446in"}Fig. 5. Free Networking as social
 mechanism: Consume workshop with Manu Luksch, Ilze Black and Alexei
-Blinov, circa 2003.
+Blinov, circa 2003. Photo: Chris Helgren.
 
 James Stevens and Julian Priest found another inspiration for their
 *Model 1* (see chapter 1.1) through the way in which in a particular
@@ -513,7 +510,7 @@ neighborhood and social environment WLAN was used to share a leased line
 internet connection. At the turn of the millennium, James Stevens and
 Julian Priest had ‘worked for a decade almost in multimedia, making CD
 ROMs and websites, running around… then we decided to give it a try and
-concentrate on doing more altruistic work.’[^01chapter1_14]
+concentrate on doing more altruistic work.’[^02chapter1_14]
 
 Both had their offices in a special corner of Southwark, the London
 borough just south of the Thames, in Clink Street, in a small warehouse,
@@ -528,7 +525,7 @@ labels located in the same building. After record companies followed
 some blue chip companies such as Levi’s who were intent on having a
 cool, young image. But James Stevens had already opted out at that time.
 
-So he founded Backspace,[^01chapter1_15] a place at the ground floor, with one
+So he founded Backspace,[^02chapter1_15] a place at the ground floor, with one
 window almost on water-level when the tide was high. Fittingly, the
 homepage of Backspace showed (and still does show) a graphical animation
 of the river Thames with the web-sites hosted by Backspace floating like
@@ -537,10 +534,10 @@ internet cafe or gallery just show the ineptitude of common language to
 describe what it was. It was a hub where people with all kinds of ideas
 – whether they were related to the internet or not – came together to
 talk, organize, share. Backspace was a crucible of London’s net art and
-digerati, where events such as the legendary *Anti with E*[^01chapter1_16]
+digerati, where events such as the legendary *Anti with E*[^02chapter1_16]
 conferences and lectures took place. Backspace also became quickly known
 for its regular live-streaming sessions, at first mainly radio, later
-also videos, with Captain Gio D’Angelo often in command.[^01chapter1_17]
+also videos, with Captain Gio D’Angelo often in command.[^02chapter1_17]
 
 That was only made possible, because Backspace shared a leased line with
 Obsolete, who were just upstairs. The other small outfits in the area,
@@ -554,7 +551,7 @@ was called. A lot of people in Clink Street were designers and thus
 Apple users. Apple at the time was the first major consumer computer
 company which supported Wi-Fi through their so-called *Airport* access
 point together with early integration of Wi-Fi interfaces into their
-consumer computer products.[^01chapter1_18]
+consumer computer products.[^02chapter1_18]
 
 The creative cluster of artists, designers, musicians, and entrepreneurs
 experienced the benefits of broadband and also the laws of network
@@ -579,13 +576,11 @@ from the beginning a *social thing*. ‘The idea that came out was much
 more straight forward than it looks now, but it was interlinking
 locations where people work and live using this wireless stuff. We did
 it already across the street, so that sort of scale where we had a
-grasp.’ (James Stevens, interview
-
-with the author, 2003).
+grasp.’ (James Stevens, interview with the author, 2003).
 
 ![](media/image6.jpeg){width="6.153472222222222in"
 height="4.102083333333334in"}Fig. 6. Consume workshop at the studio of
-AmbientTV.NET, London, circa 2003.
+AmbientTV.NET, London, circa 2003. Photo: Chris Helgren.
 
 I received an invitation to this workshop and remember that I was
 electrified (although it turned out that I could not participate in that
@@ -615,12 +610,12 @@ shown to work in a relatively confined area. Could it be made to work
 over a mile or two? Could different areas be connected into a Wide Area
 Community Network? Stevens:
 
-There was a momentum there, in that way, because it grasped peoples
+There was a momentum there, in that way, because it grasped people’s
 attention and got them to come out, literally, just physically to turn
 up, gather at a meeting, and really, the second meeting that we had, we
 built nodes. It was really just like as direct as that: physically turn
 up and do it; those who could handle the Unix side of it, which is not
-everybody, obviously.[^01chapter1_19]
+everybody, obviously.[^02chapter1_19]
 
 A subsequent workshop was held sometime in the first half of 2000. What
 they were out to do, ‘was to provide ownership of network segments to
@@ -648,7 +643,7 @@ is no publicly visible route to one’s machine. If a lot of people who
 share their network connectivity via wireless have such a provider, the
 routing in the network becomes a problem. There are workarounds for that
 problem, but this is just one aspect of a protracted sequence of issues
-regarding wireless routing.[^01chapter1_20]
+regarding wireless routing.[^02chapter1_20]
 
 At that point, in the year 2000, mesh networking technology was really
 in its infancy. Through the launch of Consume, a lot of gifted people
@@ -735,7 +730,7 @@ be pulled out from the ground at any level almost really. A school can
 just decide to put up an access point: utilize, redistribute, in order
 to legitimately pass the network that it has got from its council
 network and say its available throughout the school without any
-wires.[^01chapter1_21]
+wires.[^02chapter1_21]
 
 Stevens wanted to demonstrate that large, infrastructural projects could
 be realized in a bottom-up manner, through processes of
@@ -751,16 +746,18 @@ could be described as non-commercial social entrepreneurs; their
 strength was also advocacy, creating ideas of their own and pulling in
 people and resources; the same can be said of artists and curators such
 as Manu Luksch, Ilze Black and myself who, for a while, also belonged to
-the core of the London free network scene.[^01chapter1_22] Another core participant
+the core of the London free network scene.[^02chapter1_22] Another core participant
 was Adam Burns, who can claim to have had the same idea, more or less,
 by himself, and had set up the first wireless free network node in
 Europe, free2air.org.
 
 ## 1.5 You are Free 2 Air Your Opinion
 
-![](media/image8.jpeg){width="6.334027777777778in"
-height="4.222916666666666in"}Fig. 8. Adam Burns and Manu Luksch explore
-skies over East London. Photo: Chris Helgren.
+![](media/image8.jpeg){width="6.6930555555555555in"
+height="4.461805555555555in"}
+
+Fig. 8. Adam Burns and Manu Luksch explore skies over East London.
+Photo: Chris Helgren.
 
 While Consume had been an early project, as a really existing free
 network in London it had been preceded by free2air.org. Free2air.org was
@@ -774,7 +771,7 @@ To my knowledge I am not aware of any other facility in Europe offering
 totally open network access like this. I do not want to know the name,
 the address, the credit card number, the color of the eyes or hair of
 anyone who connects through to this network. That’s unimportant to me,
-and I don’t feel that this is a necessary requirement.[^01chapter1_23]
+and I don’t feel that this is a necessary requirement.[^02chapter1_23]
 
 At the time of the interview, in autumn 2002, Adam Burns claimed that
 free2air had been active for 18 months. Thus, from late 1999 or early
@@ -799,7 +796,7 @@ got a lot of people passing information directly to each other its very
 hard to track down what information has and has not passed and how it
 got aired. So there is a double meaning to free2air, it also means you
 are free to air your expressions without concern or problems in getting
-that message through.[^01chapter1_24]
+that message through.[^02chapter1_24]
 
 ## 1.6 East End Net
 
@@ -902,30 +899,30 @@ shaping future technologies, those technologies become less elitist,
 less controlled by narrow commercial or security interest. The original
 peer-to-peer spirit of the Net gets enhanced and made fit for the future
 in a network commons that is there to protect our democratic freedoms
-and rights.[^01chapter1_25]
+and rights.[^02chapter1_25]
 
-[^01chapter1_1]: Armin Medosch, Freie Netze. Geschichte, Politik und Kultur offener
+[^02chapter1_1]: Armin Medosch, Freie Netze. Geschichte, Politik und Kultur offener
     WLAN-Netze, Heise Verlag, Hannover 2004,
     https://ftp.heise.de/tp/buch\_11.pdf.
 
-[^01chapter1_2]: Confine Project (2012-2015), archived October 2015,
+[^02chapter1_2]: Confine Project (2012-2015), archived October 2015,
     https://web.archive.org/web/20151003180403/https://www.confine-project.eu/.
 
-[^01chapter1_3]: Armin Medosch, Freie Netze. Geschichte, Politik und Kultur offener
+[^02chapter1_3]: Armin Medosch, Freie Netze. Geschichte, Politik und Kultur offener
     WLAN-Netze, Heise Verlag, Hannover 2004,
     https://ftp.heise.de/tp/buch\_11.pdf.
 
-[^01chapter1_4]: Volker Grassmuck, Freie Software. Zwischen Privat- und
+[^02chapter1_4]: Volker Grassmuck, Freie Software. Zwischen Privat- und
     Gemeineigentum, Bundeszentrale für politische Bildung, 2. Auflage
     2004, https://freie-software.bpb.de/Grassmuck.pdf.
 
-[^01chapter1_5]: GNU General Public License (GPL),
+[^02chapter1_5]: GNU General Public License (GPL),
     https://www.gnu.org/licenses/licenses.html.
 
-[^01chapter1_6]: OpenWrt: 4G Systems MTX-1 MeshCube / AccessCube,
+[^02chapter1_6]: OpenWrt: 4G Systems MTX-1 MeshCube / AccessCube,
     https://openwrt.org/toh/4g.systems/access.cube.
 
-[^01chapter1_7]: Wikipedia: http://en.wikipedia.org/wiki/Dispositif. The same
+[^02chapter1_7]: Wikipedia: http://en.wikipedia.org/wiki/Dispositif. The same
     Wikipedia page further defines the dispositif as ‘the interaction of
     discursive behavior (i. e. speech and thoughts based upon a shared
     knowledge pool), non-discursive behavior (i. e. acts based upon
@@ -937,63 +934,63 @@ and rights.[^01chapter1_25]
     Kritischen Diskurs- und Dispositivanalyse
     http://www.diss-duisburg.de/Internetbibliothek/Artikel/Aspekte\_einer\_Kritischen\_Diskursanalyse.htm).
 
-[^01chapter1_8]: Allucquère Rosanne Stone, *The War of Desire and Technology at the
-    Close of the Mechanical Age*. MIT Press, 1996.
+[^02chapter1_8]: Allucquère Rosanne Stone, The War of Desire and Technology at the
+    Close of the Mechanical Age. MIT Press, 1996.
 
-[^01chapter1_9]: Howard Rheingold, *The Virtual Community: Homesteading on the
-    Electronic Frontie*r. MIT Press, 1993.
+[^02chapter1_9]: Howard Rheingold, The Virtual Community: Homesteading on the
+    Electronic Frontier. MIT Press, 1993.
 
-[^01chapter1_10]: Heidi Grundmann, *Art Telecommunication*. Vancouver, B.C.:
+[^02chapter1_10]: Heidi Grundmann, Art + Telecommunication. Vancouver, B.C.:
     Western Front Publication, 1984.
 
-[^01chapter1_11]: Roy Ascot 1984, quoted in Grundmann 1984, p. 28.
+[^02chapter1_11]: Roy Ascot 1984, quoted in Grundmann 1984, p. 28.
 
-[^01chapter1_12]: Olia Lialina, *Some Universe*,
+[^02chapter1_12]: Olia Lialina, *Some Universe*,
     [http://art.teleportacia.org/exhibition/stellastar/](https://web.archive.org/web/20150520012157/http://art.teleportacia.org/exhibition/stellastar/).
 
-[^01chapter1_13]: I have written more extensively about this in Medosch, Armin.
+[^02chapter1_13]: I have written more extensively about this in Medosch, Armin.
     *Kreative Milieus*. In *Vergessene Zukunft: Radikale Netzkulturen in
     Europa*, 1. Aufl., pp. 19–26. Bielefeld: Transcript, 2012.
 
-[^01chapter1_14]: James Stevens, interview with the author, June 2003, private
+[^02chapter1_14]: James Stevens, interview with the author, June 2003, private
     notes.
 
-[^01chapter1_15]: Backspace, http://bak.spc.org/.
+[^02chapter1_15]: Backspace, http://bak.spc.org/.
 
-[^01chapter1_16]: *Anti with E* conferences and lectures,
+[^02chapter1_16]: *Anti with E* conferences and lectures,
     http://www.irational.org/cybercafe/backspace/.
 
-[^01chapter1_17]: See article by Josephine Berry, Captain's Mate D'Angelo In
+[^02chapter1_17]: See article by Josephine Berry, Captain's Mate D'Angelo In
     Interview with intergalactic hack Josephine Berry aboard Starship
-    Backspace, 07 August 1998, archived July 2003,
+    Backspace, 07 August1998, archived July 2003,
     https://web.archive.org/web/20030704110709/http://www.medialounge.net/lounge/workspace/crashhtml/cc/23.htm.
 
-[^01chapter1_18]: See History of Wi-Fi: Wolter Lemstra, Vic Hayes and John
+[^02chapter1_18]: See History of Wi-Fi: Wolter Lemstra, Vic Hayes and John
     Groenewegen, The Innovation Journey of Wi-Fi: The Road to Global
     Success. Cambridge University Press, 2010.
 
-[^01chapter1_19]: James Stevens, interview with the author, June 2003, private
+[^02chapter1_19]: James Stevens, interview with the author, June 2003, private
     notes.
 
-[^01chapter1_20]: Corinna Elektra Aichele, a free networker from Berlin, has summed
-    up those problems and possible solutions much better than I ever
-    could in her book *Mesh – Drahtlose Ad-hoc Netze*, Open Source
+[^02chapter1_20]: Corinna *Elektra* Aichele, a free networker from Berlin, has
+    summed up those problems and possible solutions much better than I
+    ever could in her book *Mesh – Drahtlose Ad-hoc Netze*, Open Source
     Verlag, 2007,
     https://download-master.berlin.freifunk.net/ebooks/mesh\_kapitel4\_leseprobe.pdf.
 
-[^01chapter1_21]: James Stevens, interview with the author, June 2003, private
+[^02chapter1_21]: James Stevens, interview with the author, June 2003, private
     notes.
 
-[^01chapter1_22]: Here, the original text said: “(I will dedicate a special chapter
+[^02chapter1_22]: Here, the original text said: “(I will dedicate a special chapter
     to art and wireless community networks later in this book)”, which
     might have been a note of the author to himself that ended up
     unrealized.
 
-[^01chapter1_23]: Adam Burns, Interview with Armin Medosch, 2002.
+[^02chapter1_23]: Adam Burns, Interview with Armin Medosch, Autumn 2002.
 
-[^01chapter1_24]: Adam Burns, Interview with Armin Medosch, 2002.
+[^02chapter1_24]: Adam Burns, Interview with Armin Medosch, Autumn 2002.
 
-[^01chapter1_25]: Related links:
+[^02chapter1_25]: Related links:
 
     Guifi: https://guifi.net/
 

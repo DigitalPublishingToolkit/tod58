@@ -48,7 +48,7 @@ The Dijkstra algorithm is something as basic for the current political
 and cultural system as cars – or traffic lights – were for the previous
 one, but nobody knows it, except for experts, computer scientists,
 techies. It would not surprise me if it was included in the *Evil Media*
-book,[^09chapter9_1] since this is something that has become part of the
+book,[^10chapter9_1] since this is something that has become part of the
 technological unconscious. It has an agency of its own, as a repressed
 force. This is definitely the case with the information infrastructure.
 
@@ -128,8 +128,8 @@ group of convinced mesh networkers dedicated themselves to building a
 new distribution from scratch. Part of this group was the German Axel
 Neumann who at the time also lived in Gracia. After three years they
 launched the first stable release, and QMP is now used at many places
-around the world.[^09chapter9_2] Axel Neumann is key developer of BMX6,[^09chapter9_3] one
-among a number of the latest incarnations of B.A.T.M.A.N.,[^09chapter9_4] a mobile
+around the world.[^10chapter9_2] Axel Neumann is key developer of BMX6,[^10chapter9_3] one
+among a number of the latest incarnations of B.A.T.M.A.N.,[^10chapter9_4] a mobile
 ad hoc mesh network protocol.
 
 Axel Neumann is writing software for the Confine project. He is helping
@@ -156,7 +156,7 @@ emerged as an alternative to OLSR – the latter the first mesh protocol
 which became more widely used by the community – a rivalry developed
 which inspired the *Battle of Mesh Networks*. This is a kind of contest,
 where community networkers meet to test and compare different
-protocols.[^09chapter9_5] Meanwhile, a number of different flavors of B.A.T.M.A.N.
+protocols.[^10chapter9_5] Meanwhile, a number of different flavors of B.A.T.M.A.N.
 exist besides BMX6.
 
 B.A.T.M.A.N. is a distance vector protocol. OLSR is a link state routing
@@ -204,7 +204,7 @@ with a mobile phone.
 
 Distributions with several mesh protocols are already in actual use in
 Spain, Germany, Austria, Argentina, and Nicaragua, in Chile possibly
-too. A major effort for a new distribution is called LibreMesh.[^09chapter9_6] It
+too. A major effort for a new distribution is called LibreMesh.[^10chapter9_6] It
 is an attempt at globalizing the Freifunk firmware undertaken by several
 community networks across continents, including Freifunk, Ninux, and
 Guifi, together with people in Argentina.
@@ -212,7 +212,7 @@ Guifi, together with people in Argentina.
 The latest Freifunk distribution, Kathleen, also has B.A.T.M.A.N. and
 OLSR installed. It offers a lot of improvements in the direction of
 auto-configuration and ease of use and better management of IP spaces
-and DNS services.[^09chapter9_7] With regard to the politics of Freifunk, I was
+and DNS services.[^10chapter9_7] With regard to the politics of Freifunk, I was
 able to make interesting observations when a massive flamewar broke out
 between someone, who apparently wanted to use the Freifunk label for his
 own cause, and everybody else.
@@ -271,7 +271,7 @@ repeated those three freedoms to me like a mantra.
 
 Pau Escrich and Roger Baig are part of a group of community networkers
 and researchers, who work at Universitat Politècnica de Catalunya (UPC),
-Barcelona, Spain in the framework of the EU funded project Confine.[^09chapter9_8]
+Barcelona, Spain in the framework of the EU funded project Confine.[^10chapter9_8]
 This project brings together community networkers, but also academic
 computer scientists and telecommunications researchers, to build
 Community Lab, a testbed for many new WLAN applications.
@@ -286,15 +286,15 @@ towards practical results whereas researchers can look further into the
 future.
 
 Llorenç is using his position in the network topology to conduct some
-experimental measurements and to write papers about it.[^09chapter9_9] He has also
+experimental measurements and to write papers about it.[^10chapter9_9] He has also
 written a topology generator, a tool that visualizes the network between
-Sants and UPC.[^09chapter9_10]
+Sants and UPC.[^10chapter9_10]
 
 The community network provides the unique opportunity to have live field
 tests running, studying relatively large scale wireless networks under
 real conditions. Ivan Vilata-i-Balaguer is also working in the Confine
 project. His responsibility is to provide services for the
-implementation of the testbed, Community Lab.[^09chapter9_11]
+implementation of the testbed, Community Lab.[^10chapter9_11]
 
 ‘We have the community device’, explains Ivan, ‘we chose to run the
 experiments on a separate device.’ The community lab testbed is actual
@@ -333,10 +333,10 @@ enables more experimental topology generators such as the one by Llorenç
 Cerdà-Alabern; but this is just a fraction of what is going on.
 
 The project is also providing data sets from those measurements for
-other researchers.[^09chapter9_12] This page gives an overview of all the partners
+other researchers.[^10chapter9_12] This page gives an overview of all the partners
 and activities, such as Athens Wireless. Ninux in Italy, Funkfeuer and
-many more.[^09chapter9_13] As part of the project, a whole range of social projects
-have been added through an open call.[^09chapter9_14] One of those projects is
+many more.[^10chapter9_13] As part of the project, a whole range of social projects
+have been added through an open call.[^10chapter9_14] One of those projects is
 CONFLATE, which uses ‘the new Research Devices of Ninux.org to deploy a
 simple (but practical) OpenFlow based DASH Live Video Streaming service
 for real users of Ninux.org,’ informs the website. This and other
@@ -347,7 +347,7 @@ also share an observation which stems from rather long-term engagement
 in the field. It seems that many participants in this movement display
 facets of what Joseph Weizenbaum called the obsessive-compulsive
 programmer.\
-In his 1976 book *Computer Power and Human Reason*,[^09chapter9_15] Weizenbaum, as
+In his 1976 book *Computer Power and Human Reason*,[^10chapter9_15] Weizenbaum, as
 a big critic of computer science from within, wrote this famous passage
 about the
 
@@ -364,12 +364,12 @@ them. We should not make techies []{#__DdeLink__10804_299379148
 society. In the knowledge economy, almost everyone is quite compulsive
 about their work, and in the 21st century many people have become
 *hackers* according to McKenzie Wark’s
-definition.[]{#footnoteref3_3bpuqfs .anchor}[^09chapter9_16] In *Fun and Software*,
+definition.[]{#footnoteref3_3bpuqfs .anchor}[^10chapter9_16] In *Fun and Software*,
 a recent book edited by Olga Goriunova, one of the pioneers of Software
 Studies, the authors treat this subject in a more even-handed
-way.[]{#footnoteref4_cixn2yq .anchor}[^09chapter9_17] Wendy Hui Kyong Chun and
+way.[]{#footnoteref4_cixn2yq .anchor}[^10chapter9_17] Wendy Hui Kyong Chun and
 Andrew Lison argue that there is a dialectic at work between fun and
-exploitation.[]{#footnoteref5_kghw1ug .anchor}[^09chapter9_18] Techies such as
+exploitation.[]{#footnoteref5_kghw1ug .anchor}[^10chapter9_18] Techies such as
 Linus Torvalds write software *just for fun* but their political naivety
 makes them also subject to exploitation. For some, the fascination with
 technology, which itself is not the real problem, can turn into a
@@ -476,72 +476,72 @@ is responsible for anything that a user might do. This law seems to have
 been created particularly to support the interests of the copyright
 industry. Now, the German coalition government is drafting a new law
 which, if passed, would make wireless community networks next to
-impossible.[^09chapter9_19] The problem is a political one, not one of the
+impossible.[^10chapter9_19] The problem is a political one, not one of the
 efficiency of battling mesh networks.[[]{#page-title36
 .anchor}]{#__RefHeading___Toc109002_349971531 .anchor}
 
-[^09chapter9_1]: Matthew Fuller and Andrew Goffey, *Evil Media*, MIT Press 2012.
+[^10chapter9_1]: Matthew Fuller and Andrew Goffey, *Evil Media*, MIT Press 2012.
 
-[^09chapter9_2]: Quick Mesh Project (qMp), https://qmp.cat/.
+[^10chapter9_2]: Quick Mesh Project (qMp), https://qmp.cat/.
 
-[^09chapter9_3]: Bmx6 in OpenWRT, n.d., archived December 2013,
+[^10chapter9_3]: Bmx6 in OpenWRT, n.d., archived December 2013,
     https://web.archive.org/web/20131220025032/http://bmx6.net/projects/bmx6.
 
-[^09chapter9_4]: Open-Mesh: B.A.T.M.A.N.,
+[^10chapter9_4]: Open-Mesh: B.A.T.M.A.N.,
     https://www.open-mesh.org/projects/open-mesh/wiki.
 
-[^09chapter9_5]: The Wireless Battle Mesh is an ongoing annual convention: Wireless
+[^10chapter9_5]: The Wireless Battle Mesh is an ongoing annual convention: Wireless
     Battle Mesh, https://www.battlemesh.org/.
 
-[^09chapter9_6]: LibreMesh, https://libremesh.org/.
+[^10chapter9_6]: LibreMesh, https://libremesh.org/.
 
-[^09chapter9_7]: For a history of Freifunk firmware releases, incl. Kathleen, see
+[^10chapter9_7]: For a history of Freifunk firmware releases, incl. Kathleen, see
     Freifunk, Berlin: Firmware
     https://wiki.freifunk.net/Berlin:Firmware.
 
-[^09chapter9_8]: Confine Project (2012-2015), archived October 2015,
+[^10chapter9_8]: Confine Project (2012-2015), archived October 2015,
     https://web.archive.org/web/20151003180403/https://www.confine-project.eu/.
 
-[^09chapter9_9]: For instance: D. Vega, L. Cerda-Alabern, L. Navarro, and R.
+[^10chapter9_9]: For instance: D. Vega, L. Cerda-Alabern, L. Navarro, and R.
     Meseguer. *Topology Patterns of a Community Network: Guifi.net*. In
     2012 IEEE 8th International Conference on Wireless and Mobile
     Computing, Networking and Communications (WiMob), 612–19, 2012.
     doi:10.1109/WiMOB.2012.6379139.
 
-[^09chapter9_10]: The resulting page is definitely worth studying: Bmx6 Wireless
+[^10chapter9_10]: The resulting page is definitely worth studying: Bmx6 Wireless
     Mesh, Sants-UPC, http://dsg.ac.upc.edu/qmpsu/index.php.
 
-[^09chapter9_11]: For those more technically interested, there are some slides
+[^10chapter9_11]: For those more technically interested, there are some slides
     here: Ivan Vilata-i-Balaguer, Community-Lab: Exploring the Future
     Internet on Community Networks, slides of talk at FOSDEM 2014,
     archived May 2016,
     https://web.archive.org/web/20141126225209/http://wiki.confine-project.eu/\_media/pub:community-lab-intro\_fosdem-2014.pdf.
 
-[^09chapter9_12]: Confine Wiki, Open Data Sets, archived November 2014,
+[^10chapter9_12]: Confine Wiki, Open Data Sets, archived November 2014,
     https://web.archive.org/web/20141126212934/http://wiki.confine-project.eu/experiments:datasets.
 
-[^09chapter9_13]: Community Lab, archived December 2014,
+[^10chapter9_13]: Community Lab, archived December 2014,
     https://web.archive.org/web/20141217005023/http://community-lab.net/.
 
-[^09chapter9_14]: Confine Wiki, Selected Open Call 2 experiments, archived November
+[^10chapter9_14]: Confine Wiki, Selected Open Call 2 experiments, archived November
     2014,
     https://web.archive.org/web/20141126212458/http://wiki.confine-project.eu/experiments:opencall2.
 
-[^09chapter9_15]: Joseph Weizenbaum, *Computer Power and Human Reason: From
+[^10chapter9_15]: Joseph Weizenbaum, *Computer Power and Human Reason: From
     Judgement to Calculation*. W.H. Freeman & Company, 1976.
 
-[^09chapter9_16]: McKenzie Wark, *A Hacker Manifesto*. Harvard University Press,
+[^10chapter9_16]: McKenzie Wark, *A Hacker Manifesto*. Harvard University Press,
     2009.
 
-[^09chapter9_17]: Olga Goriunova, Fun and Software: Exploring Pleasure, Paradox and
+[^10chapter9_17]: Olga Goriunova, Fun and Software: Exploring Pleasure, Paradox and
     Pain in Computing. Bloomsbury Publishing USA, 2014.
 
-[^09chapter9_18]: Wendy Hui Kyong Chun and Andrew Lison *Fun Is a Battlefield:
+[^10chapter9_18]: Wendy Hui Kyong Chun and Andrew Lison *Fun Is a Battlefield:
     Software between Enjoyment and Obsession*. In *Fun and Software:
     Exploring Pleasure, Paradox and Pain in Computing*, 175–96. London /
     New York / Paris: Bloomsbury Publishing USA, 2014.
 
-[^09chapter9_19]: To support the Freifunk campaign against the new draft law,
+[^10chapter9_19]: To support the Freifunk campaign against the new draft law,
     follow this link: ‘Christian Heise, Wir brauchen eure Hilfe – Helft
     mit die Störerhaftung für WLANs zu stürzen!’, 10 March 2015,
     https://freifunkstattangst.de/2015/03/10/wir-brauchen-eure-hilfe-helft-mit-die-stoererhaftung-fuer-wlans-zu-stuerzen/.
