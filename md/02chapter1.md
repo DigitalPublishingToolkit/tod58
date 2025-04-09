@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# 1. The Rise of the Network Commons
+#1. The Rise of the Network Commons
 
 The Rise of the Network Commons returns to the topos of the wireless
 commons on which I worked during the early 2000s. In this new version,
@@ -1010,3 +1010,4 @@ and rights.[^02chapter1_25]
     https://web.archive.org/web/20151003180403/https://www.confine-project.eu/.
 
     Art Servers Unlimited: https://monoskop.org/Art\_Servers\_Unlimited.
+

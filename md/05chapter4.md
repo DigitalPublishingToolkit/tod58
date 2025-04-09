@@ -20,7 +20,7 @@ Rights: CC BY-NC 4.0
 ---
 
 
-# 4. The Social Technologies of the Network Commons (Freifunk 2)
+#4. The Social Technologies of the Network Commons (Freifunk 2)
 
 ![Fig. 18. Topology and metrics of a local mesh test
 network.

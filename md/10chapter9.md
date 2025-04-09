@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# 9. The Obsessive Utopia of Mesh Networks 
+#9. The Obsessive Utopia of Mesh Networks 
 
 ‘The sleeping beauty of mesh has been kissed into life by the
 community’, explains Elektra in her book. The community has made it
@@ -360,17 +360,16 @@ a gambler’s on the rolling dice.
 
 The real issue here is not about appearances and also not about
 finger-pointing at computer enthusiasts or techies, as I prefer to call
-them. We should not make techies []{#__DdeLink__10804_299379148
-.anchor}culpable for what are actually the contradictions of this
+them. We should not make techies culpable for what are actually the contradictions of this
 society. In the knowledge economy, almost everyone is quite compulsive
 about their work, and in the 21st century many people have become
 *hackers* according to McKenzie Wark’s
-definition.[]{#footnoteref3_3bpuqfs .anchor}[^10chapter9_16] In *Fun and Software*,
+definition.[^10chapter9_16] In *Fun and Software*,
 a recent book edited by Olga Goriunova, one of the pioneers of Software
 Studies, the authors treat this subject in a more even-handed
-way.[]{#footnoteref4_cixn2yq .anchor}[^10chapter9_17] Wendy Hui Kyong Chun and
+way.[^10chapter9_17] Wendy Hui Kyong Chun and
 Andrew Lison argue that there is a dialectic at work between fun and
-exploitation.[]{#footnoteref5_kghw1ug .anchor}[^10chapter9_18] Techies such as
+exploitation.[^10chapter9_18] Techies such as
 Linus Torvalds write software *just for fun* but their political naivety
 makes them also subject to exploitation. For some, the fascination with
 technology, which itself is not the real problem, can turn into a
@@ -478,9 +477,7 @@ been created particularly to support the interests of the copyright
 industry. Now, the German coalition government is drafting a new law
 which, if passed, would make wireless community networks next to
 impossible.[^10chapter9_19] The problem is a political one, not one of the
-efficiency of battling mesh networks.[[]{#page-title36
-.anchor}]{#__RefHeading___Toc109002_349971531 .anchor}
-
+efficiency of battling mesh networks.
 [^10chapter9_1]: Matthew Fuller and Andrew Goffey, *Evil Media*, MIT Press 2012.
 
 [^10chapter9_2]: Quick Mesh Project (qMp), https://qmp.cat/.

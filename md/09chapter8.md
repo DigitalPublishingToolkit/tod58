@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# 8. The Mixed Political Economy of Guifi.net
+#8. The Mixed Political Economy of Guifi.net
 
 This chapter throws a closer look at the different models used
 economically by Freifunk and Guifi. In particular, it investigates in

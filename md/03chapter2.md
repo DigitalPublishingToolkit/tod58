@@ -20,7 +20,7 @@ Rights: CC BY-NC 4.0
 ---
 
 
-# 2. Consume the Net: The Internationalization of an Idea
+#2. Consume the Net: The Internationalization of an Idea
 
 ![Fig. 11. The Sky Above Berlin: Freifunk in action.](imgs/m11.jpg)
 

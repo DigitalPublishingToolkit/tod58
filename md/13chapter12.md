@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# 12. Network Commons Case Studies and Correspondence
+#12. Network Commons Case Studies and Correspondence
 
 ![Fig. 31. Mauricio Roman, installing a mesh
 router. Cerro Mariposa (Butterfly Hill), Valparaiso.](imgs/m31.jpg)

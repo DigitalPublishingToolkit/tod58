@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# 7. Free Networks Between Countryside and City, Between North and South
+#7. Free Networks Between Countryside and City, Between North and South
 
 ![Fig. 25. Mariposa Hill, Valparaiso, Chile.
 The blue building on the right is the Torres de Mesana Community Center.](imgs/m25.jpg)

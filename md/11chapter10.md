@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# 10. Towards the Network Commons (Conclusions)
+#10. Towards the Network Commons (Conclusions)
 
 ![Fig. 30. Andrews Road, London, May 2005
 (from Monoskop[^11chapter10_1]).](imgs/m30.jpg)

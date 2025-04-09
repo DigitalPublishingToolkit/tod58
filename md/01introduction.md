@@ -195,17 +195,15 @@ c-base.org and C3S.cc. He blogs at vgrass.de.
 
 [^01introduction_1]: Armin Medosch, *Freie Netze. Geschichte, Politik und Kultur
     offener WLAN-Netze*, Heise Verlag, Hannover 2004,
-    []{#__DdeLink__4009_774727268
-    .anchor}https://ftp.heise.de/tp/buch\_11.pdf.
+    https://ftp.heise.de/tp/buch\_11.pdf.
 
-[^01introduction_2]: Archived at []{#__DdeLink__2806_774727268_Copy_1
-    .anchor}https://webarchiv.servus.at/thenextlayer.org/.
+[^01introduction_2]: Archived at https://webarchiv.servus.at/thenextlayer.org/.
 
 [^01introduction_3]: PicoPeering 2024 held above c-base in Berlin on 17 and 18 May
     2024. See sig0namectl at Picopeering 2024 Unconference, 18 May 2024,
     https://sig0namectl.networkcommons.org/posts/20240518-picopeering-2024-presentation/.
 
-[^01introduction_4]: []{#__DdeLink__4015_774727268_Copy_2 .anchor} *Confine Project*
+[^01introduction_4]: *Confine Project*
     (2012-2015), archived October 2015,
     https://web.archive.org/web/20151003180403/https://www.confine-project.eu/.
     See also its successor Horizon 2020 project, *netCommons*

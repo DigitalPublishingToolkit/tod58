@@ -20,7 +20,7 @@ Rights: CC BY-NC 4.0
 ---
 
 
-# 5. Free Networks: We Are Only Just Beginning
+#5. Free Networks: We Are Only Just Beginning
 
 ![Fig. 22 Gio and Alexi in the Wireless
 Spring.](imgs/m22.jpg)

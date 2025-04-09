@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# 11. Conclusions
+#11. Conclusions
 
 After considering all evidence, it seems a proven fact that community
 networks make unique and important contributions to communications

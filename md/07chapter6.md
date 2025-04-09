@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# 6. The Incomplete Paradigm Shift
+#6. The Incomplete Paradigm Shift
 
 ![Fig. 24. Carnival Against Capitalism –18
 June 1999. Photo: Manu Luksch.](imgs/m24.jpg)

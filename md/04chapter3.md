@@ -20,7 +20,7 @@ Rights: CC BY-NC 4.0
 ---
 
 
-# 3. Fly Freifunk Fly!
+#3. Fly Freifunk Fly!
 
 ![Fig. 12. Early Map of Berlin Backbone,
 courtesy Freifunk.](imgs/m12.png)
@@ -288,8 +288,7 @@ under deliberation was still mobile mesh, but this would change soon.
     https://web.archive.org/web/20040202044948/http://www.mitre.org/work/tech\_transfer/mobilemesh/index.html.
 
 [^04chapter3_7]: Elektra, Mobile Mesh, Freifunk Wiki, archived March 2004,
-    []{#__DdeLink__32806_612232036_Copy_1_Copy_1
-    .anchor}https://web.archive.org/web/20040313124958/http://freifunk.net/wiki/MeshingUndMeshAPs.
+    https://web.archive.org/web/20040313124958/http://freifunk.net/wiki/MeshingUndMeshAPs.
 
 [^04chapter3_8]: Martin Röll, live from freifunk.net summer convention, Das
     E-Business Weblog, 13 September 2003, archived October 2006,
