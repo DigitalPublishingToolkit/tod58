@@ -1,9 +1,9 @@
-<dc:identifier id="epub-id-1">urn:isbn:NNN-NN-NN-NN-n</dc:identifier>
+<dc:identifier id="epub-id-1">urn:isbn:9789083520926</dc:identifier>
 <meta refines="#epub-id-1" property="identifier-type" scheme="onix:codelist5">01</meta>
 <dc:title id="epub-title-1">The Rise of the Network Commons: A History of Community Infrastructure</dc:title>
 <meta refines="#epub-title-1" property="title-type">main</meta>
 <dc:publisher>Institute of Network Cultures</dc:publisher>    
-<dc:date id="epub-date">2017-02</dc:date>
+<dc:date id="epub-date">2025-04</dc:date>
 <dc:language>en-US</dc:language>
 <dc:creator id="epub-creator-0">Armin Medosch</dc:creator>
 <meta refines="#epub-creator-0" property="role" scheme="marc:relators">aut</meta>

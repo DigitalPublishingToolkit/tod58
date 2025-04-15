@@ -8,7 +8,9 @@
 
 **The Rise of the Network Commons: A History of Community Infrastructure**
 
-**Edited by:** Volker Ralf Grassmuck, Adam Burns, Ina Zwerger, Elektra Aichele, Panayotis Antoniadis, Gregers Baur-Petersen, Andreas Bräu, Sebastian Büttrich, Teresa Dillon, André Gaul. Aaron Kaplan, Geert Lovink, Monic Meisel, Mauricio Román Miranda, Jürgen Neumann, Ignacio Nieto Larrain, Julian Priest, Enrique Rivera, Tim Schütz, Felix Stalder, Thomas Thaler, Ulf Treger, Sven (C-ven) Wagner and Simon Worthington.
+**Edited by:** Volker Ralf Grassmuck and Adam Burns 
+
+**Special thanks to:** Ina Zwerger, Elektra Aichele, Panayotis Antoniadis, Gregers Baur-Petersen, Andreas Bräu, Sebastian Büttrich, Teresa Dillon, André Gaul. Aaron Kaplan, Geert Lovink, Monic Meisel, Mauricio Román Miranda, Jürgen Neumann, Ignacio Nieto Larrain, Julian Priest, Enrique Rivera, Tim Schütz, Felix Stalder, Thomas Thaler, Ulf Treger, Sven (C-ven) Wagner, and Simon Worthington
 <br/>
 
 **Author:** Armin Medosch 
@@ -20,7 +22,7 @@
 
 Published by the Institute of Network Cultures, Amsterdam, 2025
 
-ISBN XXXX
+ISBN 9789083520926
 
 **Contact** <br/>
 Institute of Network Cultures<br/>
