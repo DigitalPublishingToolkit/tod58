@@ -71,7 +71,7 @@ enthusiasts. There, Eben Moglen, the lawyer who had helped write the
 GPL, gave a rousing speech. His notes consisted of a small piece of
 paper on which he had written:
 
-‘free software – free networks – free hardware.’
+> ‘free software – free networks – free hardware.’
 
 ![Fig. 14. Eben Moglen at OpenCultures
 conference 2003. Image courtesy t0 / WorldInformation.org.
@@ -143,18 +143,18 @@ according to a recent entry on the timeline it was only after FC03 that
 the development of the MeshCube began in serious. At the time, Julian
 Priest wrote in the Informal Wiki[^04chapter3_5]:
 
-Bruno Randolf ran mesh routing workshop. After a good discussion
-covering the main mesh protocols and solutions, AODV (an early dynamic
-routing protocol), mobile mesh, scrouter, and meshap, around 10 – 15
-linux laptops were pressed into service as mesh nodes using the mobile
-mesh toolset. Tomas Krag crammed a couple of wireless cards into his
-laptop (which only just had space to fit) and ran the border router and
-others stretched the network around the buildings. Many discussions
-about how to assign IP addresses in the mesh followed, maybe IPv6,
-mobile IP or Zeroconf could be ways forward here. Bruno demoed the jaw
-dropping 4G mesh cube. 4 cm cube sporting up to 4 radios, smc type
-antenna connectors, a 400 Mhz mips 32Mb flash 64M ram, with power over
-ethernet and usb, currently running Debian. A space to watch for sure.
+> Bruno Randolf ran mesh routing workshop. After a good discussion
+> covering the main mesh protocols and solutions, AODV (an early dynamic
+> routing protocol), mobile mesh, scrouter, and meshap, around 10 – 15
+> linux laptops were pressed into service as mesh nodes using the mobile
+> mesh toolset. Tomas Krag crammed a couple of wireless cards into his
+> laptop (which only just had space to fit) and ran the border router and
+> others stretched the network around the buildings. Many discussions
+> about how to assign IP addresses in the mesh followed, maybe IPv6,
+> mobile IP or Zeroconf could be ways forward here. Bruno demoed the jaw
+> dropping 4G mesh cube. 4 cm cube sporting up to 4 radios, smc type
+> antenna connectors, a 400 Mhz mips 32Mb flash 64M ram, with power over
+> ethernet and usb, currently running Debian. A space to watch for sure.
 
 The MeshCube made use of industrial small chips optimized for running an
 embedded GNU/Linux distribution. Initially it was configured with the

@@ -141,9 +141,9 @@ Individual node owners would set up wireless network nodes on rooftops,
 balconies and window sills. Each node would be owned and maintained by
 its owner, who would also define the rules of engagement with other
 nodes. The network would grow as a result of the combination of social
-and urban topologies. The properties of the technology – well strictly
-speaking there is no such thing as property of technology as I just
-explained but lets reduce complexity for a moment – impose certain
+and urban topologies. The properties of the technology – well, strictly
+speaking, there is no such thing as property of technology, as I just
+explained, but lets reduce complexity for a moment – impose certain
 restrictions. WLAN (Wireless Local Area Networking), later called Wi-Fi
 by the trademark of the Wi-Fi Alliance, operates in a part of the
 electromagnetic spectrum that does not pass through obstacles such as
@@ -400,12 +400,12 @@ proprietary network in 1980. Fellow artist Roy Ascott described in vivid
 terms how it felt to be on-line and engage in real-time synchronous
 communication.
 
-Over the past three years I have been interacting through my terminal
-with artists in Australia, Europe, and North America, once or twice a
-week through I.P. Sharp’s ARTBOX. I have not come down from that high
-yet and frankly I don’t expect to. Logging in to the network, sharing
-the exchange of ideas, propositions, visions and sheer gossip is
-exhilarating. In fact it becomes totally compelling and addictive.[^02chapter1_11]
+> Over the past three years I have been interacting through my terminal
+> with artists in Australia, Europe, and North America, once or twice a
+> week through I.P. Sharp’s ARTBOX. I have not come down from that high
+> yet and frankly I don’t expect to. Logging in to the network, sharing
+> the exchange of ideas, propositions, visions and sheer gossip is
+> exhilarating. In fact it becomes totally compelling and addictive.[^02chapter1_11]
 
 Similar feelings have been shared by almost everyone who experienced an
 always-on network connection. But let us return to the BBS world, which
@@ -617,12 +617,12 @@ shown to work in a relatively confined area. Could it be made to work
 over a mile or two? Could different areas be connected into a Wide Area
 Community Network? Stevens:
 
-There was a momentum there, in that way, because it grasped people’s
-attention and got them to come out, literally, just physically to turn
-up, gather at a meeting, and really, the second meeting that we had, we
-built nodes. It was really just like as direct as that: physically turn
-up and do it; those who could handle the Unix side of it, which is not
-everybody, obviously.[^02chapter1_19]
+> There was a momentum there, in that way, because it grasped people’s
+> attention and got them to come out, literally, just physically to turn
+> up, gather at a meeting, and really, the second meeting that we had, we
+> built nodes. It was really just like as direct as that: physically turn
+> up and do it; those who could handle the Unix side of it, which is not
+> everybody, obviously.[^02chapter1_19]
 
 A subsequent workshop was held sometime in the first half of 2000. What
 they were out to do, ‘was to provide ownership of network segments to
@@ -731,14 +731,14 @@ as technologically. The network was not centrally owned and managed but
 came together as a result of the activities of many independent and
 self-motivated actors. James Stevens at the time argued:
 
-Creating any sort of infrastructural layer on the landscape, in an
-environment or the community, that’s something that has always been left
-to the councils or commercial entities, but this is something that can
-be pulled out from the ground at any level almost really. A school can
-just decide to put up an access point: utilize, redistribute, in order
-to legitimately pass the network that it has got from its council
-network and say its available throughout the school without any
-wires.[^02chapter1_21]
+> Creating any sort of infrastructural layer on the landscape, in an
+> environment or the community, that’s something that has always been left
+> to the councils or commercial entities, but this is something that can
+> be pulled out from the ground at any level almost really. A school can
+> just decide to put up an access point: utilize, redistribute, in order
+> to legitimately pass the network that it has got from its council
+> network and say its available throughout the school without any
+> wires.[^02chapter1_21]
 
 Stevens wanted to demonstrate that large, infrastructural projects could
 be realized in a bottom-up manner, through processes of
@@ -774,11 +774,11 @@ he had set up an omni-directional antenna on a building on Hackney Road,
 just above the Bus stop and a Halal Chicken shop. From there, everybody
 could pick up a signal who was within range.
 
-To my knowledge I am not aware of any other facility in Europe offering
-totally open network access like this. I do not want to know the name,
-the address, the credit card number, the color of the eyes or hair of
-anyone who connects through to this network. That’s unimportant to me,
-and I don’t feel that this is a necessary requirement.[^02chapter1_23]
+> To my knowledge I am not aware of any other facility in Europe offering
+> totally open network access like this. I do not want to know the name,
+> the address, the credit card number, the color of the eyes or hair of
+> anyone who connects through to this network. That’s unimportant to me,
+> and I don’t feel that this is a necessary requirement.[^02chapter1_23]
 
 At the time of the interview, in autumn 2002, Adam Burns claimed that
 free2air had been active for 18 months. Thus, from late 1999 or early
@@ -789,21 +789,21 @@ internet access more out of ethical conviction than business sense. This
 background has inspired his keen sense of networking as a social
 project.
 
-free2air is a contentious name, but one that I have chosen to use.
-Basically it has a dual meaning: once you establish such a network the
-cost of information travel is free. It’s not a totally free service to
-establish, you need to buy hardware, you need computer expertise and so
-on. But the whole idea of ongoing costs are minimal. Secondly, what I
-liked about it is the plans for a distributed open public access
-network. It gets rid of the idea of a central ISP, in other words,
-globally around the world, when we are talking about the internet rather
-than censorship or pedophiles hanging out, or bomb makers, there is a
-lot of concentration on what really goes on in networks. When you have
-got a lot of people passing information directly to each other its very
-hard to track down what information has and has not passed and how it
-got aired. So there is a double meaning to free2air, it also means you
-are free to air your expressions without concern or problems in getting
-that message through.[^02chapter1_24]
+> free2air is a contentious name, but one that I have chosen to use.
+> Basically it has a dual meaning: once you establish such a network the
+> cost of information travel is free. It’s not a totally free service to
+> establish, you need to buy hardware, you need computer expertise and so
+> on. But the whole idea of ongoing costs are minimal. Secondly, what I
+> liked about it is the plans for a distributed open public access
+> network. It gets rid of the idea of a central ISP, in other words,
+> globally around the world, when we are talking about the internet rather
+> than censorship or pedophiles hanging out, or bomb makers, there is a
+> lot of concentration on what really goes on in networks. When you have
+> got a lot of people passing information directly to each other its very
+> hard to track down what information has and has not passed and how it
+> got aired. So there is a double meaning to free2air, it also means you
+> are free to air your expressions without concern or problems in getting
+> that message through.[^02chapter1_24]
 
 ## 1.6 East End Net
 
@@ -835,7 +835,7 @@ projects using the free WLAN took place. I will turn to those projects
 at a later stage.
 
 While East End Net was never built in the way it was supposed to, the
-discussions and the focus that it generated was highly productive in a
+discussions and the focus that it generated were highly productive in a
 number of areas. Several lines of flight are taking off from this point,
 which all will have to be followed separately – so I will just hint at
 some of those ideas in overview form. The hand drawn original map of

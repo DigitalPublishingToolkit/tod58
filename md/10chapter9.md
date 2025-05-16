@@ -65,13 +65,13 @@ Pau Escrich is one among a team
 of researchers working on the Confine project and he is also a Guifi
 activist:
 
-I realized that in my district, a Barcelona neighborhood which is called
-Sants, there was not any node of the Guifi.net project. So, following
-the approach – think globally, act locally – I started contacting people
-from the neighborhood. We built a nice group of folks interested in
-building a free network, and after having some meetings we started
-deploying nodes. Now, four years after this, we have around 50 nodes in
-this area.
+> I realized that in my district, a Barcelona neighborhood which is called
+> Sants, there was not any node of the Guifi.net project. So, following
+> the approach – think globally, act locally – I started contacting people
+> from the neighborhood. We built a nice group of folks interested in
+> building a free network, and after having some meetings we started
+> deploying nodes. Now, four years after this, we have around 50 nodes in
+> this area.
 
 Pau and colleagues started using new technology based on mesh routing
 protocols. Most of Guifi.net does not use mesh protocols, but standard
@@ -101,12 +101,12 @@ This works reasonably well but does not fulfill the criteria of the
 wireless community network dispositif which demands a more egalitarian
 topology. Pau Escrich:
 
-The SuperNode network creates what we call the Backbone, and this
-Backbone network is decentralized, but the level below (the Nodes layer)
-is very centralized, and it represents more than 80% of the network
-devices. So this is an actual control point; the groups, individuals or
-companies controlling these SuperNodes are the actual managers of the
-network. This is what we are trying to skip by developing and using QMP.
+> The SuperNode network creates what we call the Backbone, and this
+> Backbone network is decentralized, but the level below (the Nodes layer)
+> is very centralized, and it represents more than 80% of the network
+> devices. So this is an actual control point; the groups, individuals or
+> companies controlling these SuperNodes are the actual managers of the
+> network. This is what we are trying to skip by developing and using QMP.
 
 QMP stands for Quick Mesh Project, a GNU/Linux distribution based on
 OpenWRT and specifically made for mesh networks. QMP is based on a
@@ -141,13 +141,13 @@ that constantly changes; or how to have routing tables in a network
 where constantly nodes appear and disappear? Axel was getting interested
 in B.A.T.M.A.N. through Freifunk. Pau Escrich:
 
-B.A.T.M.A.N. was born in Berlin as an alternative to OLSR. Its approach
-is different for a node running the routing protocol; instead of knowing
-all the network topology (as OLSR does), in B.A.T.M.A.N. every node only
-knows its new best step to reach any other node in the network. So if
-all the network participants are doing the same, the user data will be
-routed from one side to the other following always the best path. This
-approach is called distance vector.
+> B.A.T.M.A.N. was born in Berlin as an alternative to OLSR. Its approach
+> is different for a node running the routing protocol; instead of knowing
+> all the network topology (as OLSR does), in B.A.T.M.A.N. every node only
+> knows its new best step to reach any other node in the network. So if
+> all the network participants are doing the same, the user data will be
+> routed from one side to the other following always the best path. This
+> approach is called distance vector.
 
 B.A.T.M.A.N. is actually an acronym and stands for *better approach to
 mobile ad-hoc networking*. The initial idea came from Corinna *Elektra*
@@ -172,11 +172,11 @@ on BMX6, trying to improve the way how this flooding of messages is
 done. ‘Speaking in the abstract,’ Axel explains, ‘it is like compressing
 data.’ Pau Escrich:
 
-We choose BMX6 because it fits our requirements: scalability, good
-performance, capable to run on a low-resources machine and IPv6 support.
-In addition Axel Neumann, its main developer, is a good friend of the
-Guifi.net community and he joined the QMP team, so we are really having
-a routing protocol which is very adapted to our needs.
+> We choose BMX6 because it fits our requirements: scalability, good
+> performance, capable to run on a low-resources machine and IPv6 support.
+> In addition Axel Neumann, its main developer, is a good friend of the
+> Guifi.net community and he joined the QMP team, so we are really having
+> a routing protocol which is very adapted to our needs.
 
 Programmers such as Axel and Pau are deeply fascinated about the
 capacities of mesh protocols like OLSR or B.A.T.M.A.N. in terms of
@@ -186,10 +186,10 @@ decentralized, the leafs are very centralized. For community network
 activists, the network topology is not just a technical issue, it also
 expresses a political desire. Pau Escrich:
 
-When I was a kid, I was enthusiastic about Che Guevara, Gandhi and these
-people in history who changed the world and fought for the freedom of
-ordinary people. I also liked computers a lot. So I found the free
-software movement as a perfect scenario to follow my ideas.
+> When I was a kid, I was enthusiastic about Che Guevara, Gandhi and these
+> people in history who changed the world and fought for the freedom of
+> ordinary people. I also liked computers a lot. So I found the free
+> software movement as a perfect scenario to follow my ideas.
 
 The mesh networking community is striving to build a completely
 egalitarian, uncensored, free and open network. Axel Neumann believes
@@ -309,11 +309,11 @@ Most research is usually done in controlled environments, by research
 groups, but there are no users. In a community network with real users,
 explains Ivan Vilata-i-Balaguer,
 
-‘the experiments must not overwhelm the community network with traffic,
-must not crash it, when experiments crash, and it also should not affect
-node ownership, so we cannot expect total control from the testbed
-operator; we had a lot of open topics to think about and we had to find
-an architecture that meets all these requirements.
+> ‘the experiments must not overwhelm the community network with traffic,
+> must not crash it, when experiments crash, and it also should not affect
+> node ownership, so we cannot expect total control from the testbed
+> operator; we had a lot of open topics to think about and we had to find
+> an architecture that meets all these requirements.
 
 The research devices can be used for different experiments, remotely
 controlled from servers hosted at an organization called Pangea.
@@ -352,11 +352,11 @@ In his 1976 book *Computer Power and Human Reason*,[^10chapter9_15] Weizenbaum, 
 a big critic of computer science from within, wrote this famous passage
 about the
 
-bright, young men of disheveled appearance, often with sunken glowing
-eyes, \[who\] can be seen sitting at computer consoles, their arms
-tensed and waiting to fire their fingers, already poised to strike, at
-the buttons and keys on which their attention seems to be as riveted as
-a gambler’s on the rolling dice.
+> bright, young men of disheveled appearance, often with sunken glowing
+> eyes, \[who\] can be seen sitting at computer consoles, their arms
+> tensed and waiting to fire their fingers, already poised to strike, at
+> the buttons and keys on which their attention seems to be as riveted as
+> a gambler’s on the rolling dice.
 
 The real issue here is not about appearances and also not about
 finger-pointing at computer enthusiasts or techies, as I prefer to call

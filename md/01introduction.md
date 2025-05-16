@@ -44,7 +44,7 @@ Berlin.[^01introduction_3]
 Adam Burns and Volker Grassmuck took on the editing role and were
 supported by many of the people who this book is about, including
 Elektra Aichele, Panayotis Antoniadis, Gregers Baur-Petersen, Andreas
-Bräu, Sebastian Büttrich, Teresa Dillon, André Gaul. Aaron Kaplan, Geert
+Bräu, Sebastian Büttrich, Teresa Dillon, André Gaul, Aaron Kaplan, Geert
 Lovink, Monic Meisel, Mauricio Román Miranda, Jürgen Neumann, Ignacio
 Nieto Larrain, Julian Priest, Enrique Rivera, Tim Schütz, Felix Stalder,
 Thomas Thaler, Ulf Treger, Sven (C-ven) Wagner and Simon Worthington.
@@ -58,7 +58,7 @@ Stoffelen, Tommaso Campagna, and Katja Stiphout.
 
 The phrase *Network Commons* was conceived right after Armin’s previous
 book had been published in long conversations with his London neighbor
-and colleague Adam Burns together with Consume cofounder Julian priest.
+and colleague Adam Burns together with Consume cofounder Julian Priest.
 It continued to evolve in Armin’s thinking. He wanted to have an
 English-language companion and update to his 2004 book. In his own
 words:

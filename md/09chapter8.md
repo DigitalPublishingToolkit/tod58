@@ -95,12 +95,12 @@ freedom.
 Guifi is consciously creating a network commons and uses also the term
 commons in its language. Ramon Roca:
 
-The network is managed as a commons. Whatever you have wireless and
-cable-bound, whichever protocols, and all the economics – which are a
-lot – have to respect that the network is in the commons. It is not in
-control of a single person, single company, single point of interest.
-That does not mean that there can be no business. A lot of business can
-happen around that but based on the service.
+> The network is managed as a commons. Whatever you have wireless and
+> cable-bound, whichever protocols, and all the economics – which are a
+> lot – have to respect that the network is in the commons. It is not in
+> control of a single person, single company, single point of interest.
+> That does not mean that there can be no business. A lot of business can
+> happen around that but based on the service.
 
 He insists that whoever makes a business there by building the network,
 planning, and maintaining it, ‘has to respect that the return comes from
@@ -108,12 +108,12 @@ his services. It is not coming from claiming ownership of the network
 and then asking a higher price to whoever wants to use it. They have to
 respect the internet as commons.’ Ramon Roca:
 
-We are not building a private internet, we are part of the internet.
-Internet is the result of the networks, so we are simply a part of that.
-We have a portion of the internet that works as a commons, and other
-portions maybe do not work as a commons. And the only thing we have to
-do is to interconnect. So what happens inside the commons is we do not
-charge anything for interconnecting.
+> We are not building a private internet, we are part of the internet.
+> Internet is the result of the networks, so we are simply a part of that.
+> We have a portion of the internet that works as a commons, and other
+> portions maybe do not work as a commons. And the only thing we have to
+> do is to interconnect. So what happens inside the commons is we do not
+> charge anything for interconnecting.
 
 The mixed economy allows people to build a business model for instance
 by providing some kind of support after disasters. They guarantee they
@@ -121,25 +121,25 @@ will bring a node back within four hours for a certain fee. But you are
 not charging for interconnecting between networks, which is called
 peering. Guifi are systematically peering, for free, explains Ramon.
 
-You don’t take economic advantage from each other. Don’t be intrusive in
-terms of looking what they are doing, in terms of privacy also, which is
-taken care by the licenses, and doing the business but not in
-controlling the network, keeping it as a commons.
+> You don’t take economic advantage from each other. Don’t be intrusive in
+> terms of looking what they are doing, in terms of privacy also, which is
+> taken care by the licenses, and doing the business but not in
+> controlling the network, keeping it as a commons.
 
 In order to do so, it would be good to be able to rely on the state as a
 benevolent partner. Commons theorists maintain that there should be
 alliances between democratic governments to create commons enabling
 legislation. Yet regulation can be easily circumvented. Ramon Roca:
 
-But even talking in market terms, everybody knows that the market does
-not work if there is no competition. There are many ways of avoiding
-competition. So that’s why in every country you have a regulatory agency
-to ensure that happens. When there is an incumbent with too much
-difference towards the others, there is no free competition and they
-will do whatever to protect their position, such as to create
-bureaucratic problems. This is a very long story. And it differs between
-countries, but often the regulator can be captured by the lobby
-interests because they are very powerful.
+> But even talking in market terms, everybody knows that the market does
+> not work if there is no competition. There are many ways of avoiding
+> competition. So that’s why in every country you have a regulatory agency
+> to ensure that happens. When there is an incumbent with too much
+> difference towards the others, there is no free competition and they
+> will do whatever to protect their position, such as to create
+> bureaucratic problems. This is a very long story. And it differs between
+> countries, but often the regulator can be captured by the lobby
+> interests because they are very powerful.
 
 The interests of the incumbent are often more highly on the mind of
 politicians than the interest of the majority of people. Nevertheless,
@@ -156,26 +156,26 @@ allowing a network to grow which has different property structures, but
 works as a commons regardless, through its commitment to interconnect.
 The three principles deserve some closer explanation. I quote:
 
-1. It is open because it is universally open to the participation of
-everybody without any kind of exclusion nor discrimination, and because
-it is always described how it and its components work, enabling everyone
-to improve it.
-
-2. It is free because everybody can use it for whatever purpose and
-enjoy it as foreseen in the freedoms of the *General principles*
-section, independently of their degree of network participation.
-
-3. it is neutral because the network is independent of the contents, it
-does not influence them and they can freely circulate; the users can
-access and produce contents independently of their financial capacity or
-their social condition. The new contents produced by guifi.net are
-orientated to stimulate new ones, or for the network administration
-itself, or simply in exercise of the freedom of adding new contents, but
-not to replace or to block others.
-
-It is also neutral with regard to the technology. The network can be
-built with whatever technology chosen by the participants with the only
-limitations resulting from the technology itself.
+> 1. It is open because it is universally open to the participation of
+> everybody without any kind of exclusion nor discrimination, and because
+> it is always described how it and its components work, enabling everyone
+> to improve it.
+> 
+> 2. It is free because everybody can use it for whatever purpose and
+> enjoy it as foreseen in the freedoms of the *General principles*
+> section, independently of their degree of network participation.
+> 
+> 3. it is neutral because the network is independent of the contents, it
+> does not influence them and they can freely circulate; the users can
+> access and produce contents independently of their financial capacity or
+> their social condition. The new contents produced by guifi.net are
+> orientated to stimulate new ones, or for the network administration
+> itself, or simply in exercise of the freedom of adding new contents, but
+> not to replace or to block others.
+> 
+> It is also neutral with regard to the technology. The network can be
+> built with whatever technology chosen by the participants with the only
+> limitations resulting from the technology itself.
 
 However, any rule needs enforcement in order to function. Guifi.net has
 chosen to look at Elinor Ostrom’s research on how commons can function
@@ -187,22 +187,22 @@ initially perplexed me. In the early days of Consume, metering would
 have been seen as a first step towards charging and thus in opposition
 to the spirit of network freedom. Ramon Roca disagrees:
 
-We aim for a net neutrality, not only the commons. That’s far from being
-a religion. To be neutral we should maintain agnostic in all aspects,
-technology, between volunteer activity or professional activity, allow
-all uses from free as in beer or commercial services on it..., be safe
-from governments... not to say about politics or religions. Important
-not to become fundamentalist.
+> We aim for a net neutrality, not only the commons. That’s far from being
+> a religion. To be neutral we should maintain agnostic in all aspects,
+> technology, between volunteer activity or professional activity, allow
+> all uses from free as in beer or commercial services on it..., be safe
+> from governments... not to say about politics or religions. Important
+> not to become fundamentalist.
 
 It seems that Guifi does not only have no problems with metering
 traffic, but on the contrary, sees it as a prerequisite for building an
 effective network commons.
 
-For sustainability of the commons and for managing the network you need
-capacity planning and economics involved in investments or operating
-expenses (regardless if there is money in between or not). For sure, it
-requires metering for managing the network itself, diagnosing where more
-capacity is required, etc.
+> For sustainability of the commons and for managing the network you need
+> capacity planning and economics involved in investments or operating
+> expenses (regardless if there is money in between or not). For sure, it
+> requires metering for managing the network itself, diagnosing where more
+> capacity is required, etc.
 
 As the mixed political economy of Guifi.net includes governments and
 businesses, the metering also serves the aim of checking if people pay
@@ -233,15 +233,15 @@ which is, in my view, the secret of Guifi’s success. And Guifi’s mixed
 political economy has allowed it to grow at a rate that has made itself
 visible in government statistics. Ramon Roca:
 
-In 2004 the region, Osona with 150,000 inhabitants, was ranked 31st in
-Catalonia in terms of bandwidth, and now we have ten percent above the
-average, because it was the first region to reach the European average.
-So now we can provide that we are the only county in Catalonia that
-meets the European average, and this year we went above the average. If
-you look at the statistics you see we make the difference, it’s the ten
-percent. By having alternatives, we can ensure to meet the Digital
-Agenda 2020 of the European Union. We are maybe a minority, but we are
-still ten percent. And that ten percent will make a difference.
+> In 2004 the region, Osona with 150,000 inhabitants, was ranked 31st in
+> Catalonia in terms of bandwidth, and now we have ten percent above the
+> average, because it was the first region to reach the European average.
+> So now we can provide that we are the only county in Catalonia that
+> meets the European average, and this year we went above the average. If
+> you look at the statistics you see we make the difference, it’s the ten
+> percent. By having alternatives, we can ensure to meet the Digital
+> Agenda 2020 of the European Union. We are maybe a minority, but we are
+> still ten percent. And that ten percent will make a difference.
 
 [^09chapter8_1]: Guifi.net: Node statistics,
     https://guifi.net/guifi/menu/stats/nodes.

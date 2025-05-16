@@ -65,13 +65,13 @@ incumbent has arisen. Guifi started in the countryside out of a real
 need. According to my interview with Ramon Roca, initially they could
 use a public library as access point:
 
-One of the things that helped us a lot in the beginning, maybe we did
-not have the internet at home, but looking at places where there were
-some public institutions like libraries was a way of sharing the
-internet. In our case it was a public library, it was paid through our
-taxes. So we were already paying for that internet access; and they were
-happy for sharing it. It was free in this case in terms of gratis, so it
-was paid already by taxpayers’ money.
+> One of the things that helped us a lot in the beginning, maybe we did
+> not have the internet at home, but looking at places where there were
+> some public institutions like libraries was a way of sharing the
+> internet. In our case it was a public library, it was paid through our
+> taxes. So we were already paying for that internet access; and they were
+> happy for sharing it. It was free in this case in terms of gratis, so it
+> was paid already by taxpayers’ money.
 
 Ramon suggests, there are a number of ways in which community networks
 and public institutions can cooperate. So this is like an open model of
@@ -273,17 +273,17 @@ community as much as possible to create a sustainable model for a
 village telco. As Carlos Rey-Moreno told me in an interview, it is
 important to consider the specific circumstances that came together.
 
-Mankosi is composed of twelve villages, around which 6,000 people live
-in 500 households. The average income per household, consisting of
-around 10 people, is about 53 euros. In this community, there is
-coverage from mobile telephone operators but they tailor their services
-for wealthier urban users. South Africa is the second most unequal
-country in the world when it comes to income distribution. With regard
-to mobile communications, matters are made worse by middlemen who go to
-town and bring the airtime, so that there is a markup for airtime, local
-people are charged even more than everyone else. We are talking of about
-30% of household income going into phone communication, with all the
-hazards that implies for other areas, such as health, education.
+> Mankosi is composed of twelve villages, around which 6,000 people live
+> in 500 households. The average income per household, consisting of
+> around 10 people, is about 53 euros. In this community, there is
+> coverage from mobile telephone operators but they tailor their services
+> for wealthier urban users. South Africa is the second most unequal
+> country in the world when it comes to income distribution. With regard
+> to mobile communications, matters are made worse by middlemen who go to
+> town and bring the airtime, so that there is a markup for airtime, local
+> people are charged even more than everyone else. We are talking of about
+> 30% of household income going into phone communication, with all the
+> hazards that implies for other areas, such as health, education.
 
 The project used *mesh potatoes* from the Village Telco project as
 hardware. Twelve houses were chosen as nodes, with solar panels and
@@ -296,12 +296,12 @@ houses where nodes were installed did not tell everyone else that this
 new infrastructure was a shared property. After seven months absence,
 Carlos returned and started a process of public meetings.
 
-Now we have regular meetings with about ten people meeting monthly,
-people from every village, so that it has become much easier to reach
-decisions. This is now beginning to take root, that working together is
-a better way. They start to apply that to other areas as well. Some sort
-of transformative effect appears to be taking place, apart from the
-network as such.
+> Now we have regular meetings with about ten people meeting monthly,
+> people from every village, so that it has become much easier to reach
+> decisions. This is now beginning to take root, that working together is
+> a better way. They start to apply that to other areas as well. Some sort
+> of transformative effect appears to be taking place, apart from the
+> network as such.
 
 Initially, the plan had been to use the network mainly for voice calls
 between the 12 villages. But then the villagers raised the demand to

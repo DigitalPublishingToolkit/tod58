@@ -27,7 +27,7 @@ Rights: CC BY-NC 4.0
 
 **Edited by:** Volker Ralf Grassmuck and Adam Burns 
 
-**Special thanks to:** Ina Zwerger, Elektra Aichele, Panayotis Antoniadis, Gregers Baur-Petersen, Andreas Bräu, Sebastian Büttrich, Teresa Dillon, André Gaul. Aaron Kaplan, Geert Lovink, Monic Meisel, Mauricio Román Miranda, Jürgen Neumann, Ignacio Nieto Larrain, Julian Priest, Enrique Rivera, Tim Schütz, Felix Stalder, Thomas Thaler, Ulf Treger, Sven (C-ven) Wagner, and Simon Worthington
+**Special thanks to:** Ina Zwerger, Elektra Aichele, Panayotis Antoniadis, Gregers Baur-Petersen, Andreas Bräu, Sebastian Büttrich, Teresa Dillon, André Gaul, Aaron Kaplan, Geert Lovink, Monic Meisel, Mauricio Román Miranda, Jürgen Neumann, Ignacio Nieto Larrain, Julian Priest, Enrique Rivera, Tim Schütz, Felix Stalder, Thomas Thaler, Ulf Treger, Sven (C-ven) Wagner, and Simon Worthington
 <br/>
 
 **Author:** Armin Medosch 
