@@ -669,7 +669,9 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>, so well known in Germany, tends to attract the wrong kind of people who are experts in that type of community organizing. A negative example is provided, unfortunately, by Funkfeuer Vienna. This has become a tightly run organization, very inward looking and barely communicating with the outside world. It seems significant also that Funkfeuer is stagnating, the number of nodes has roughly been the same for years, and the website has hardly any new content. While Freifunk and Guifi.net communicate with the world through thousands of channels, Funkfeuer oozes the spirit of self-contained nirvana of nerd. The prevalent attitude is similar to those of HAM radio amateurs, a tightly knit group of males who like to experiment with latest technology. Benefits to society may arise in times of natural disasters, but apart from that it is not evident if or in which ways this once so vibrant initiative participates in wider social issues.</Content>
 				<Br />
-				<Content>Freifunk, on the other hand, as Elektra remarked with a laugh, has arrived in the mainstream of German society, with all pros and cons. In the region of Franconia, in the south, Freifunk has been adopted by the local branch of the CSU, the Christian Conservative party. Local and regional newspapers are full of articles about Freifunk, not always positive. It seems that Germany is a more politicized society, where issues such as surveillance, privacy, network freedom, and communication freedom are of concern for a growing number of people.</Content>
+				<Content>Freifunk, on the other hand, as Elektra remarked with a laugh, has arrived in the mainstream of German society, with all pros and cons. In the region of Franconia, in the south, Freifunk has been adopted by the local branch of the CSU, the Christian Conservative party. Local and regional newspapers are full of articles about Freifunk, not always positive. It seems that </Content>
+				<Br />
+				<Content>Germany is a more politicized society, where issues such as surveillance, privacy, network freedom, and communication freedom are of concern for a growing number of people.</Content>
 				<Br />
 				<Content>All those things were debated hotly at the WCW. The spectrum of opinions stretches from those who think that routers with pre-installed firmware, serviced and maintained from remote by experts, are the way forward. Others think that this is a consumerist ideology which has nothing in common with the original idea. They insist that the transfer of knowledge between core activists and users is an important facet, that there should be no Freifunk shops, no pre-installed software. If that implies that growth is much more slow or even stalls, than that is the price. They are convinced that upholding the original idea is much more important than quantitative success, expressed in numbers of routers flashed. But is there such a thing as the original idea? Has not the idea of what a free network is already changed? Has not the very success of Freifunk and Guifi shown that the idea of Consume was a tick too Utopian, that it needed a less fundamentalist, slightly less decentralized approach? On the other hand, a centralized structure such as Funkfeuer, based on a </Content>
 			</CharacterStyleRange>
@@ -677,8 +679,8 @@
 				<Content>Verein</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> (registered association) and a closed community of males with an affinity for technology, can create a network which functions as a commons for its participants but appears as a closed network to the outside world. While being a closed community, Funkfeuer can still make important contributi</Content>
-				<Content>ons to the development of experimental network technology.</Content>
+				<Content> (registered association) and a closed community of males with an affinity for technology, can create a network which functions as a commons for its participants but appears as a closed network to the outside world. While being a closed community, Funkfeuer can still make important contribut</Content>
+				<Content>ions to the development of experimental network technology.</Content>
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 	</Story>

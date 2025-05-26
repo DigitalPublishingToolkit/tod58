@@ -113,9 +113,6 @@
 		<Font Self="dieaaFontnHelvetica Neue Bold" FontFamily="Helvetica Neue" Name="Helvetica Neue Bold" PostScriptName="HelveticaNeue-Bold" Status="Installed" FontStyleName="Bold" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue Bold" FullNameNative="Helvetica Neue Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="10.0d40e1" TypekitID="$ID/" />
 		<Font Self="dieaaFontnHelvetica Neue Bold Italic" FontFamily="Helvetica Neue" Name="Helvetica Neue Bold Italic" PostScriptName="HelveticaNeue-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue Bold Italic" FullNameNative="Helvetica Neue Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="10.0d40e1" TypekitID="$ID/" />
 	</FontFamily>
-	<FontFamily Self="di3d69" Name="TradeGothic LT Bold">
-		<Font Self="di3d69FontnTradeGothic LT Bold Regular" FontFamily="TradeGothic LT Bold" Name="TradeGothic LT Bold Regular" PostScriptName="TradeGothicLT-Bold" Status="Substituted" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Trade Gothic LT Bold" FullNameNative="Trade Gothic LT Bold" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 6.1; 2002" TypekitID="$ID/" />
-	</FontFamily>
 	<FontFamily Self="di3dcc" Name="Trade Gothic Next LT Pro">
 		<Font Self="di3dccFontnTrade Gothic Next LT Pro Compressed" FontFamily="Trade Gothic Next LT Pro" Name="Trade Gothic Next LT Pro Compressed" PostScriptName="TradeGothicNextLTPro-Cm" Status="Installed" FontStyleName="Compressed" FontType="OpenTypeCFF" WritingScript="0" FullName="Trade Gothic Next LT Pro Compressed" FullNameNative="Trade Gothic Next LT Pro Compressed" FontStyleNameNative="Compressed" PlatformName="$ID/" Version="Version 2.00" TypekitID="$ID/" />
 		<Font Self="di3dccFontnTrade Gothic Next LT Pro Bold Compressed" FontFamily="Trade Gothic Next LT Pro" Name="Trade Gothic Next LT Pro Bold Compressed" PostScriptName="TradeGothicNextLTPro-BdCm" Status="Installed" FontStyleName="Bold Compressed" FontType="OpenTypeCFF" WritingScript="0" FullName="Trade Gothic Next LT Pro Bold Compressed" FullNameNative="Trade Gothic Next LT Pro Bold Compressed" FontStyleNameNative="Bold Compressed" PlatformName="$ID/" Version="Version 2.00" TypekitID="$ID/" />
@@ -495,6 +492,11 @@
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>The Rise of the Network Commons returns to the topos of the wireless commons on which I worked during the early 2000s. In this new version, combining original research from my German book </Content>
@@ -538,7 +540,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Rectangle Self="u41ca" ContentType="GraphicType" StoryTitle="$ID/" OverriddenPageItemProps="" Visible="true" Name="$ID/" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" ItemTransform="1 0 0 1 172.8 -230.4" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="">
+				<Rectangle Self="u41ca" ContentType="GraphicType" StoryTitle="$ID/" OverriddenPageItemProps="" Visible="true" Name="$ID/" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" ItemTransform="1 0 0 1 172.8 -105.97795275590556" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
@@ -558,7 +560,7 @@
 							<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 						</Properties>
 					</ObjectExportOption>
-					<AnchoredObjectSetting AnchoredPosition="InlinePosition" SpineRelative="false" LockPosition="false" PinPosition="true" AnchorPoint="BottomRightAnchor" HorizontalAlignment="LeftAlign" HorizontalReferencePoint="TextFrame" VerticalAlignment="TopAlign" VerticalReferencePoint="LineBaseline" AnchorXoffset="0" AnchorYoffset="0" AnchorSpaceAbove="0" />
+					<AnchoredObjectSetting AnchoredPosition="InlinePosition" SpineRelative="false" LockPosition="false" PinPosition="true" AnchorPoint="BottomRightAnchor" HorizontalAlignment="LeftAlign" HorizontalReferencePoint="TextFrame" VerticalAlignment="TopAlign" VerticalReferencePoint="LineBaseline" AnchorXoffset="0" AnchorYoffset="0.7601356241315216" AnchorSpaceAbove="0" />
 					<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
 						<Properties>
 							<TextWrapOffset Top="0" Left="0" Bottom="0" Right="0" />
@@ -961,15 +963,11 @@ DMvEVqD5gAZiTZmoBzZ5gOHEwl/iI8Zg95XRJ//Z]]></GraphicProxy>
 				</Rectangle>
 				<Br />
 			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aImages%3aImg caption">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" FontStyle="Light Italic" PointSize="8" Ligatures="false" Tracking="-5" AppliedLanguage="$ID/English: USA" DiacriticPosition="OpentypePosition">
+				<Properties>
+					<AppliedFont type="string">Trade Gothic Next LT Pro</AppliedFont>
+				</Properties>
 				<Content>Fig. 1. Antenna installation at Haus des Lehrers, 2003. Image courtesy Freifunk.</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -987,14 +985,14 @@ DMvEVqD5gAZiTZmoBzZ5gOHEwl/iI8Zg95XRJ//Z]]></GraphicProxy>
 							<GeometryPathType PathOpen="false">
 								<PathPointArray>
 									<PathPointType Anchor="-240 -180" LeftDirection="-240 -180" RightDirection="-240 -180" />
-									<PathPointType Anchor="-240 59.773228346456776" LeftDirection="-240 59.773228346456776" RightDirection="-240 59.773228346456776" />
-									<PathPointType Anchor="79.6976377952757 59.773228346456776" LeftDirection="79.6976377952757 59.773228346456776" RightDirection="79.6976377952757 59.773228346456776" />
-									<PathPointType Anchor="79.6976377952757 -180" LeftDirection="79.6976377952757 -180" RightDirection="79.6976377952757 -180" />
+									<PathPointType Anchor="-240 63.93070866141725" LeftDirection="-240 63.93070866141725" RightDirection="-240 63.93070866141725" />
+									<PathPointType Anchor="102.70866141732286 63.93070866141725" LeftDirection="102.70866141732286 63.93070866141725" RightDirection="102.70866141732286 63.93070866141725" />
+									<PathPointType Anchor="102.70866141732286 -180" LeftDirection="102.70866141732286 -180" RightDirection="102.70866141732286 -180" />
 								</PathPointArray>
 							</GeometryPathType>
 						</PathGeometry>
 					</Properties>
-					<FrameFittingOption AutoFit="false" LeftCrop="0" TopCrop="0" RightCrop="160.30236220472432" BottomCrop="120.22677165354321" FittingOnEmptyFrame="None" FittingAlignment="CenterAnchor" />
+					<FrameFittingOption AutoFit="false" LeftCrop="0" TopCrop="0" RightCrop="0" BottomCrop="0" FittingOnEmptyFrame="FillProportionally" FittingAlignment="CenterAnchor" />
 					<ObjectExportOption AltTextSourceType="SourceXMLStructure" ActualTextSourceType="SourceXMLStructure" CustomAltText="$ID/" CustomActualText="$ID/" ApplyTagType="TagFromStructure" ImageConversionType="JPEG" ImageExportResolution="Ppi300" GIFOptionsPalette="AdaptivePalette" GIFOptionsInterlaced="true" JPEGOptionsQuality="High" JPEGOptionsFormat="BaselineEncoding" ImageAlignment="AlignLeft" ImageSpaceBefore="0" ImageSpaceAfter="0" UseImagePageBreak="false" ImagePageBreak="PageBreakBefore" CustomImageAlignment="false" SpaceUnit="CssPixel" CustomLayout="false" CustomLayoutType="AlignmentAndSpacing" EpubType="$ID/" SizeType="DefaultSize" CustomSize="$ID/" PreserveAppearanceFromLayout="PreserveAppearanceDefault">
 						<Properties>
 							<AltMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
@@ -1009,7 +1007,7 @@ DMvEVqD5gAZiTZmoBzZ5gOHEwl/iI8Zg95XRJ//Z]]></GraphicProxy>
 						<ContourOption ContourType="SameAsClipping" IncludeInsideEdges="false" ContourPathName="$ID/" />
 					</TextWrapPreference>
 					<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
-					<Image Self="u41df" Space="$ID/#Links_RGB" ActualPpi="72 72" EffectivePpi="72 72" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/JPEG" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="1 0 0 1 -240 -180" Visible="true" Name="$ID/" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="">
+					<Image Self="u41df" Space="$ID/#Links_RGB" ActualPpi="72 72" EffectivePpi="101 101" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/JPEG" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.7139763779527559 0 0 0.713976377952756 -240 -186.55039370078748" Visible="true" Name="$ID/" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="">
 						<Properties>
 							<Profile type="string">$ID/None</Profile>
 							<GraphicProxy><![CDATA[/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcg
@@ -7631,12 +7629,22 @@ RiGNzzwP9ifa/bQGlUJKPgqCTTBOKjIPSW+XCKG6/9k=]]></GraphicProxy>
 				<Br />
 				<Br />
 				<Br />
+				<Br />
+				<Br />
+				<Br />
+				<Br />
+				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aImages%3aImg caption">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
 				<Content>Fig. 9. Free2air&apos;s node groundzero gets an antenna upgrade circa 2002.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -7674,10 +7682,20 @@ RiGNzzwP9ifa/bQGlUJKPgqCTTBOKjIPSW+XCKG6/9k=]]></GraphicProxy>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
+				<Br />
+				<Br />
+				<Br />
+				<Br />
+				<Br />
+				<Br />
+				<Br />
+				<Br />
+				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aImages%3aImg caption">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Br />
 				<Content>Fig. 10. East End Net: The Original Map.</Content>
 				<Br />
 			</CharacterStyleRange>
@@ -7686,8 +7704,8 @@ RiGNzzwP9ifa/bQGlUJKPgqCTTBOKjIPSW+XCKG6/9k=]]></GraphicProxy>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>With AmbientTV.net’s help, the connection was spread by wireless and wirebound throughout the building. For several years a community of changing size, from between 20 to 40 or 60 people, inhabited a chunk of the net. Due to the social composition of this area, a number of art projects using the free WLAN took place. I will turn to those projects at a later stage.</Content>
 				<Br />
-				<Content>While East End Net was never built in the way it was supposed to, the discussions and the focus that it generated were highly productive in a number of areas. Several lines of flight are taking off from this point, which all will have to be followed separately – so I will just hint at some of those ideas in overview form. The hand drawn original map of East End Net was the starting point for a lot of ideas about mapping of wireless networks, but also ideas about communal map making as such. It was the time when the Open Street Map project began, as it was recognized that also something as complex as a map could be built </Content>
-				<Content>in a decentralized way by unpaid volunteers.</Content>
+				<Content>While East End Net was never built in the way it was supposed to, the discussions and the focus that it generated were highly productive in a number of areas. Several lines of flight are taking off from this point, which all will have to be followed separately – so I will just hint at some of those ideas in overview form. The hand drawn original map of East End Net was the starting point for a lot of ideas about mapping of wireless networks, but also ideas about communal map making as such. It was the time when the Open Street Map project began, as it was recognized that also something as complex as a map</Content>
+				<Content> could be built in a decentralized way by unpaid volunteers.</Content>
 				<Br />
 				<Content>Consume’s NodeDB, as already mentioned, was a quite early and successful attempt at building a website that facilitates registering a free network node through a wiki-like functionality. The idea was that the database would not only contain technical information about nodes, but also additional information about services offered. In this way, the NOdeDB would become the focus of community development and of micro-ecologies of small business, art, culture, activism.</Content>
 				<Br />

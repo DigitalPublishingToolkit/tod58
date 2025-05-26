@@ -135,6 +135,17 @@
 		<Font Self="di3dccFontnTrade Gothic Next LT Pro Heavy" FontFamily="Trade Gothic Next LT Pro" Name="Trade Gothic Next LT Pro Heavy" PostScriptName="TradeGothicNextLTPro-Hv" Status="Installed" FontStyleName="Heavy" FontType="OpenTypeCFF" WritingScript="0" FullName="Trade Gothic Next LT Pro Heavy" FullNameNative="Trade Gothic Next LT Pro Heavy" FontStyleNameNative="Heavy" PlatformName="$ID/" Version="Version 2.00" TypekitID="$ID/" />
 		<Font Self="di3dccFontnTrade Gothic Next LT Pro Heavy Italic" FontFamily="Trade Gothic Next LT Pro" Name="Trade Gothic Next LT Pro Heavy Italic" PostScriptName="TradeGothicNextLTPro-HvIt" Status="Installed" FontStyleName="Heavy Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Trade Gothic Next LT Pro Heavy Italic" FullNameNative="Trade Gothic Next LT Pro Heavy Italic" FontStyleNameNative="Heavy Italic" PlatformName="$ID/" Version="Version 2.00" TypekitID="$ID/" />
 	</FontFamily>
+	<FontFamily Self="di40c7" Name="Trade Gothic Next SR Pro">
+		<Font Self="di40c7FontnTrade Gothic Next SR Pro Compressed" FontFamily="Trade Gothic Next SR Pro" Name="Trade Gothic Next SR Pro Compressed" PostScriptName="TradeGothicNextSRPro-Cm" Status="Installed" FontStyleName="Compressed" FontType="OpenTypeCFF" WritingScript="0" FullName="Trade Gothic Next Soft Rounded Pro Compressed" FullNameNative="Trade Gothic Next Soft Rounded Pro Compressed" FontStyleNameNative="Compressed" PlatformName="$ID/" Version="Version 1.00" TypekitID="$ID/" />
+		<Font Self="di40c7FontnTrade Gothic Next SR Pro Bold Compressed" FontFamily="Trade Gothic Next SR Pro" Name="Trade Gothic Next SR Pro Bold Compressed" PostScriptName="TradeGothicNextSRPro-BdCm" Status="Installed" FontStyleName="Bold Compressed" FontType="OpenTypeCFF" WritingScript="0" FullName="Trade Gothic Next Soft Rounded Pro Bold Compressed" FullNameNative="Trade Gothic Next Soft Rounded Pro Bold Compressed" FontStyleNameNative="Bold Compressed" PlatformName="$ID/" Version="Version 1.00" TypekitID="$ID/" />
+		<Font Self="di40c7FontnTrade Gothic Next SR Pro Heavy Compressed" FontFamily="Trade Gothic Next SR Pro" Name="Trade Gothic Next SR Pro Heavy Compressed" PostScriptName="TradeGothicNextSRPro-HvCm" Status="Installed" FontStyleName="Heavy Compressed" FontType="OpenTypeCFF" WritingScript="0" FullName="Trade Gothic Next Soft Rounded Pro Heavy Compressed" FullNameNative="Trade Gothic Next Soft Rounded Pro Heavy Compressed" FontStyleNameNative="Heavy Compressed" PlatformName="$ID/" Version="Version 1.00" TypekitID="$ID/" />
+		<Font Self="di40c7FontnTrade Gothic Next SR Pro Condensed" FontFamily="Trade Gothic Next SR Pro" Name="Trade Gothic Next SR Pro Condensed" PostScriptName="TradeGothicNextSRPro-Cn" Status="Installed" FontStyleName="Condensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Trade Gothic Next Soft Rounded Pro Condensed" FullNameNative="Trade Gothic Next Soft Rounded Pro Condensed" FontStyleNameNative="Condensed" PlatformName="$ID/" Version="Version 1.00" TypekitID="$ID/" />
+		<Font Self="di40c7FontnTrade Gothic Next SR Pro Bold Condensed" FontFamily="Trade Gothic Next SR Pro" Name="Trade Gothic Next SR Pro Bold Condensed" PostScriptName="TradeGothicNextSRPro-BdCn" Status="Installed" FontStyleName="Bold Condensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Trade Gothic Next Soft Rounded Pro Bold Condensed" FullNameNative="Trade Gothic Next Soft Rounded Pro Bold Condensed" FontStyleNameNative="Bold Condensed" PlatformName="$ID/" Version="Version 1.00" TypekitID="$ID/" />
+		<Font Self="di40c7FontnTrade Gothic Next SR Pro Heavy Condensed" FontFamily="Trade Gothic Next SR Pro" Name="Trade Gothic Next SR Pro Heavy Condensed" PostScriptName="TradeGothicNextSRPro-HvCn" Status="Installed" FontStyleName="Heavy Condensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Trade Gothic Next Soft Rounded Pro Heavy Condensed" FullNameNative="Trade Gothic Next Soft Rounded Pro Heavy Condensed" FontStyleNameNative="Heavy Condensed" PlatformName="$ID/" Version="Version 1.00" TypekitID="$ID/" />
+		<Font Self="di40c7FontnTrade Gothic Next SR Pro Regular" FontFamily="Trade Gothic Next SR Pro" Name="Trade Gothic Next SR Pro Regular" PostScriptName="TradeGothicNextSRPro-Rg" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="Trade Gothic Next Soft Rounded Pro Regular" FullNameNative="Trade Gothic Next Soft Rounded Pro Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 1.00" TypekitID="$ID/" />
+		<Font Self="di40c7FontnTrade Gothic Next SR Pro Bold" FontFamily="Trade Gothic Next SR Pro" Name="Trade Gothic Next SR Pro Bold" PostScriptName="TradeGothicNextSRPro-Bd" Status="Installed" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Trade Gothic Next Soft Rounded Pro Bold" FullNameNative="Trade Gothic Next Soft Rounded Pro Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.00" TypekitID="$ID/" />
+		<Font Self="di40c7FontnTrade Gothic Next SR Pro Heavy" FontFamily="Trade Gothic Next SR Pro" Name="Trade Gothic Next SR Pro Heavy" PostScriptName="TradeGothicNextSRPro-Hv" Status="Installed" FontStyleName="Heavy" FontType="OpenTypeCFF" WritingScript="0" FullName="Trade Gothic Next Soft Rounded Pro Heavy" FullNameNative="Trade Gothic Next Soft Rounded Pro Heavy" FontStyleNameNative="Heavy" PlatformName="$ID/" Version="Version 1.00" TypekitID="$ID/" />
+	</FontFamily>
 	<CompositeFont Self="CompositeFont/$ID/[No composite font]" Name="$ID/[No composite font]">
 		<CompositeFontEntry Self="ua1" Name="$ID/Kanji" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" Locked="true" ScaleOption="true" BaselineShift="0">
 			<Properties>
@@ -356,30 +367,53 @@
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" FontStyle="Regular" Tracking="-10">
+				<Properties>
+					<AppliedFont type="string">Trade Gothic Next SR Pro</AppliedFont>
+				</Properties>
 				<Content>‘The sleeping beauty of mesh has been kissed into life by the community’, explains Elektra in her book. The community has made it possible to have decentralized wireless networks which connect small local cells, automatically by intelligent software (Aichele 2007, p. 15). In this chapter, a closer look at developments around mesh networks is taken, based on a study trip to Barcelona, supplemented by further research. This chapter also asks the difficult question, how the mystifications of technology might be overcome. Are better mesh routing protocols really the answer to all problems?</Content>
 				<Br />
 				<Content>In one of the previous chapters I stated that there is a significant difference between town and countryside. In many rural areas, it is virtually impossible go get affordable broadband internet. This problem has actually furthered the growth of wireless community networks in the countryside. A widely shared view is that it is much more difficult to mobilize people for wireless community networks in urban areas where a variety of possibilities for network access exists and where the urban topology makes networking difficult. This, however, while broadly true, may not always be the case. In some areas in Barcelona, wireless community networks are growing, and they are developing and using the latest mesh network technologies.</Content>
 				<Br />
 				<Content>Routing is generally a very interesting area. Dijkstra’s algorithm is one of the earliest path finding algorithms, written by computer scientist Edsger W. Dijkstra in 1956 and published in 1959. The Dijkstra algorithm is something as basic for the current political and cultural system as cars – or traffic lights – were for the previous one, but nobody knows it, except for experts, computer scientists, techies. It would not surprise me if it was included in the </Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular" Tracking="-10">
+				<Properties>
+					<AppliedFont type="string">Trade Gothic Next SR Pro</AppliedFont>
+				</Properties>
 				<Content>Evil Media</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" FontStyle="Regular" Tracking="-10">
+				<Properties>
+					<AppliedFont type="string">Trade Gothic Next SR Pro</AppliedFont>
+				</Properties>
 				<Content> book,[^10chapter9_1] since this is something that has become part of the technological unconscious. It has an agency of its own, as a repressed force. This is definitely the case with the information infrastructure.</Content>
 				<Br />
 				<Content>The process of forwarding </Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular" Tracking="-10">
+				<Properties>
+					<AppliedFont type="string">Trade Gothic Next SR Pro</AppliedFont>
+				</Properties>
 				<Content>packets</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" FontStyle="Regular" Tracking="-10">
+				<Properties>
+					<AppliedFont type="string">Trade Gothic Next SR Pro</AppliedFont>
+				</Properties>
 				<Content> from one node to the next on the Net is called routing. The politics thereby deployed concern fundamental freedoms and rights. Until now, the neutrality of these protocols has been maintained, because they are jointly developed by the IETF and IEEE. The commonality of the Net depends on neutrality on some layer. And even in the turbo-capitalist world we live in this is still safeguarded. Mesh routing protocols are improvements of </Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular" Tracking="-10">
+				<Properties>
+					<AppliedFont type="string">Trade Gothic Next SR Pro</AppliedFont>
+				</Properties>
 				<Content>normal</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" FontStyle="Regular" Tracking="-10">
+				<Properties>
+					<AppliedFont type="string">Trade Gothic Next SR Pro</AppliedFont>
+				</Properties>
 				<Content> routing protocols.</Content>
 				<Br />
 				<Content>Pau Escrich is one among a team of researchers working on the Confine project and he is also a Guifi activist:</Content>
@@ -387,8 +421,13 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aBlockquote">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" FontStyle="Regular" Tracking="-10">
+				<Properties>
+					<AppliedFont type="string">Trade Gothic Next SR Pro</AppliedFont>
+				</Properties>
 				<Content>I realized that in my district, a Barcelona neighborhood which is called Sants, there was not any node of the Guifi.net project. So, following the approach – think globally, act locally – I started contacting people from the neighborhood. We built a nice group of folks interested in building a free network, and after having some meetings we started deploying nodes. Now, four years after this, we have around 50 nodes in this area.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -406,6 +445,9 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Br />
+				<Br />
+				<Br />
 				<Br />
 				<Br />
 				<Br />
@@ -515,7 +557,9 @@
 				<Content>Battle of Mesh Networks</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>. This is a kind of contest, where community networkers meet to test and compare different protocols.</Content>
+				<Content>. </Content>
+				<Br />
+				<Content>This is a kind of contest, where community networkers meet to test and compare different protocols.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
@@ -529,8 +573,8 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> Meanwhile, a number of different flavors of B.A.T.M.A.N. exist besides BMX6.</Content>
 				<Br />
-				<Content>B.A.T.M.A.N. is a</Content>
-				<Content> distance vector protocol. OLSR is a link state routing protocol where every node has a map of the network and can make decisions about where to send packets first. Distance vector, Axel explains, is more like I send somebody on a hike without giving him a map, but telling him to look out for the signs. Distance vector is more simple, in a certain way, but has other consequences. The signs have to be put in place and they have to be kept up to date. This is done by flooding the net with messages from the target node. Axel is now working on BMX6, trying to improve the way how this flooding of messages is done. ‘Speaking in the abstract,’ Axel explains, ‘it is like compressing data.’ Pau Escrich:</Content>
+				<Content>B.A.T.M.A.N. </Content>
+				<Content>is a distance vector protocol. OLSR is a link state routing protocol where every node has a map of the network and can make decisions about where to send packets first. Distance vector, Axel explains, is more like I send somebody on a hike without giving him a map, but telling him to look out for the signs. Distance vector is more simple, in a certain way, but has other consequences. The signs have to be put in place and they have to be kept up to date. This is done by flooding the net with messages from the target node. Axel is now working on BMX6, trying to improve the way how this flooding of messages is done. ‘Speaking in the abstract,’ Axel explains, ‘it is like compressing data.’ Pau Escrich:</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -568,7 +612,9 @@
 				</Footnote>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> It is an attempt at globalizing the Freifunk firmware undertaken by several community networks across continents, including Freifunk, Ninux, and Guifi, together with people in Argentina.</Content>
+				<Content> It is an attempt at globalizing the Freifunk firmware undertaken by several </Content>
+				<Br />
+				<Content>community networks across continents, including Freifunk, Ninux, and Guifi, together with people in Argentina.</Content>
 				<Br />
 				<Content>The latest Freifunk distribution, Kathleen, also has B.A.T.M.A.N. and OLSR installed. It offers a lot of improvements in the direction of auto-configuration and ease of use and better management of IP spaces and DNS services.</Content>
 			</CharacterStyleRange>
@@ -688,8 +734,8 @@
 				<Br />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>‘We have the community device’, explains Ivan, ‘we chose to run the experiments on a separate device.’ The community lab testbed is actual hardware, </Content>
-				<Content>a device which is put next to nodes at community networks, and on this device are running some experiments. So they had to ask a lot of questions, explains Ivan, questions such as ‘How do we manage all this hardware? We are talking about nodes on the community network which can be used to run experiments.’</Content>
+				<Content>‘We have the community device’, explains Ivan, ‘we chose to run the experiments on a separate device.’ The community lab testbed is actual hardw</Content>
+				<Content>are, a device which is put next to nodes at community networks, and on this device are running some experiments. So they had to ask a lot of questions, explains Ivan, questions such as ‘How do we manage all this hardware? We are talking about nodes on the community network which can be used to run experiments.’</Content>
 				<Br />
 				<Content>Most research is usually done in controlled environments, by research groups, but there are no users. In a community network with real users, explains Ivan Vilata-i-Balaguer,</Content>
 				<Br />
@@ -863,7 +909,9 @@
 				<Content>mystifications of technology</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>. Societies get ever more fragmented, whereby small elites command a lot of power by using money and technology. To ordinary people then it looks like they are controlled by technologies, mistaking social relations for relations between things. As technology becomes </Content>
+				<Content>. Societies get ever more fragmented, whereby small elites command a lot of power by using money and technology. To ordinary people then it looks like they are controlled by technologies, mistaking social relations for relations between things. </Content>
+				<Br />
+				<Content>As technology becomes </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>mystified</Content>
@@ -895,8 +943,8 @@
 				<Content>mystifications of technology</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> could be reversed by a two-way process which I tentatively call the socialization of technology. If more people learn about how ICT works, it will become much less easy to use and abuse those technologies by the powers that be. The socialization of technologies would also imply that there are closer links between the people who develop technology and those who use it. This was the idea behind participatory design which was pioneered in Sweden in the 197</Content>
-				<Content>0s. Community networks in principle carry great hopes for initiating and furthering such processes of participatory design and socialization.</Content>
+				<Content> could be reversed by a two-way process which I tentatively call the socialization of technology. If more people learn about how ICT works, it will become much less easy to use and abuse those technologies by the powers that be. The socialization of technologies would also imply that there are closer links between the people who develop technology and those who use it. This was the idea behind participatory design which was pioneered in Sweden in t</Content>
+				<Content>he 1970s. Community networks in principle carry great hopes for initiating and furthering such processes of participatory design and socialization.</Content>
 				<Br />
 				<Content>In reality, however, when I tried to find empirical evidence for those claims, I mostly gathered evidence to the opposite. I wanted to find out what drove people to work on those issues and how they developed the criteria for their code. And the answer was in 90 percent of cases that the criteria were implicit, that they were following a shared tacit consensus according to which the coders developed the code. The question of a </Content>
 			</CharacterStyleRange>
@@ -905,6 +953,7 @@
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> of a software lies at the bottom of concerns, as the developers – or like-minded people – are the users themselves.</Content>
+				<Br />
 				<Br />
 				<Content>This self-referentiality of community network activists extends to the three </Content>
 			</CharacterStyleRange>

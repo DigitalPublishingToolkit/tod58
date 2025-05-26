@@ -368,7 +368,6 @@
 				<Br />
 				<Br />
 				<Br />
-				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aImages%3aImg caption">
@@ -502,8 +501,8 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> structure) and on cheap energy based on oil and other fossil fuels and nuclear energy. This paradigm reached maturity during the first decades after the Second World War, when it allowed for a long boom of economic expansion, led by the United States. It was successfully copied by nations who had been defeated in that war but now had become the biggest American allies, Germany and Japan, as well as other states in Europe. This industrial paradigm is often referred to as Fordism, after Henry Ford, who invented the core production technology supporting it, the assembly line.</Content>
 				<Br />
-				<Content>However, it is very important to point out that this paradigm also had an economic and political aspect. Because of the economic, political, or simply human catastrophes of the first half of the 20th century and because of the existence of the Soviet Union proposing itself to be an alternative socio-political model, capital was willing to compromise and find a way of co-existence with labor. This manifested itself in concessions to organized labor, such as the right to form trade unions and the agreement to collective bargaining. These institutional arrangements guaranteed rising wages and rising living standards in the USA, Western Europe, and Japan for 25 years. In the 1970s, however, for a combination of reasons this model </Content>
-				<Content>entered a crisis, and the new techno-political paradigm, the </Content>
+				<Content>However, it is very important to point out that this paradigm also had an economic and political aspect. Because of the economic, political, or simply human catastrophes of the first half of the 20th century and because of the existence of the Soviet Union proposing itself to be an alternative socio-political model, capital was willing to compromise and find a way of co-existence with labor. This manifested itself in concessions to organized labor, such as the right to form trade unions and the agreement to collective bargaining. These institutional arrangements guaranteed rising wages and rising living standards in the USA, Western Europe, and Japan for 25 years. In the 1970s, however, for a combination of reasons this model e</Content>
+				<Content>ntered a crisis, and the new techno-political paradigm, the </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>information society</Content>
@@ -584,6 +583,15 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>The problem at which I wanted to get through this rather lengthy parenthesis is that all those great ideas and innovations have somehow become stuck halfway. It is true that in principle free cooperation has become much more important than hierarchical top-down structures. However, hierarchies have not gone away, and command structures have become established on another level. It is true that the combination of cheap computing power, laptops, and the Net has enabled a much more egalitarian media culture. At the same time, however, new centralized media powers have arisen which did not even exist 20 years ago, companies such as Google and Facebook who have acquired a centrality compared to which Henry Ford&apos;s business empire pales.</Content>
 				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>One aspect of this paradigm change which has not been mentioned yet, must be added quickly, which is </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">

@@ -370,6 +370,7 @@
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aImages%3aImg caption">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
+				<Br />
 				<Content>Fig. 12. Early Map of Berlin Backbone, courtesy Freifunk.</Content>
 				<Br />
 			</CharacterStyleRange>
@@ -427,8 +428,8 @@
 				<Br />
 				<Br />
 				<Br />
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Br />
+				<Br />
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -440,7 +441,6 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Br />
 				<Content>It seems that Freifunk took off because of a combination of reasons. It quickly found support among activists all over Germany, not just in Berlin. It had people, who had a good understanding of technology and made the right decisions. And Freifunk did very good PR from the start. Jürgen Neumann quickly emerged as a spokesperson for the fledgling movement. However, he could always rely on other people around him to communicate the idea through a range of different means. Freifunk from the start was more like a network of people than Consume has ever been. When James Stevens decided to stop promoting Consume, it ceased to exist as a nationwide UK network of networks.</Content>
 				<Br />
 				<Content>In spring and summer 2003, the Freifunk germ was sprouting in Berlin. I was writing my German book</Content>
@@ -571,16 +571,16 @@
 				<Content>cantennas</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> (antenna made from empty food can). At the Freifunk convention, it was decided to have the next community network meeting in Djursland in 2004, which turned out to become a major international meeting of community networkers in Europe.</Content>
+				<Content> (antenna made from empty food can). At the Freifunk convention, it was decided to have the </Content>
 				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aImages%3aImg caption">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>next community network meeting in Djursland in 2004, which turned out to become a major international meeting of community networkers in Europe.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Br />
+			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" FontStyle="Light Italic" PointSize="8" Ligatures="false" Tracking="-5" AppliedLanguage="$ID/English: USA" DiacriticPosition="OpentypePosition">
 				<Properties>
 					<AppliedFont type="string">Trade Gothic Next LT Pro</AppliedFont>
@@ -665,8 +665,8 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>, by Elektra, on the early Freifunk Wiki.)</Content>
 				<Br />
-				<Content>Thus it is confirmed that on a mild day in September 2003 in Berlin, a couple of dozen of geeks could be seen walking around the streets with laptops making, to the ordinary passers-by, incomprehensible remarks about pings and packets. This was the beginning of a long and fruitful engagement of free network communities with mesh routing protocols (se</Content>
-				<Content>e also this report from 2003</Content>
+				<Content>Thus it is confirmed that on a mild day in September 2003 in Berlin, a couple of dozen of geeks could be seen walking around the streets with laptops making, to the ordinary passers-by, incomprehensible remarks about pings and packets. This was the beginning of a long and fruitful engagement of free network communities with mesh routing protocols </Content>
+				<Content>(see also this report from 2003</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
@@ -716,6 +716,7 @@
 				<Br />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Br />
 				<Content>I believe that for those early long distance connections MeshCubes were used. Those links however, did not mesh, as they were set up on fixed routes. But from those points then bandwidth was redistributed. Thus, from early on a Berlin Backbone grew, such as shown in this image which appears to be from July 2003. (Meanwhile, Berlin Backbone receives financial support from the regional government – more about that in a future installment of this story).</Content>
 				<Br />
 			</CharacterStyleRange>
@@ -788,14 +789,13 @@
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aImages%3aImg caption">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
+				<Br />
 				<Content>Fig. 17. An omni-directional antenna by Consume, a spire and the towers of the financial center, East London, 2002.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Br />
-				<Br />
 				<Content>It seems significant that today’s Berlin Backbone uses quite a few churches. Another aspect of the social side is that in Berlin it is easier to find people who have time to engage in voluntary labor. The combination of lower costs of living and the remainder of a welfare state make it easier for socially motivated techies to devote unpaid labor time to such projects. In London, that capitalist behemoth, everybody is under permanent pressure to make money, unless one is very privileged or young enough to live in insecure squats. Such comparisons, however, should not make us conduct false comparisons. At around 2003-04, Consume was still very innovative and dynamical, while Freifunk was also developing rapidly.</Content>
 				<Br />
 				<Content>If we follow this list of links from the Wayback Machine,</Content>

@@ -478,6 +478,7 @@ industry. Now, the German coalition government is drafting a new law
 which, if passed, would make wireless community networks next to
 impossible.[^10chapter9_19] The problem is a political one, not one of the
 efficiency of battling mesh networks.
+
 [^10chapter9_1]: Matthew Fuller and Andrew Goffey, *Evil Media*, MIT Press 2012.
 
 [^10chapter9_2]: Quick Mesh Project (qMp), https://qmp.cat/.
